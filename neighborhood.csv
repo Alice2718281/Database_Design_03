@@ -1,0 +1,1001 @@
+neighborhood_id,neighborhood_name,crime_rate,school_rate,economic_growth_index,local_amenities
+1,Lower East Side,18,52,40,19
+2,Norwalk,14,58,71,40
+3,Newark,25,61,61,40
+4,Tribeca,13,55,61,28
+5,New Haven,34,75,74,6
+6,Stamford,25,52,32,14
+7,Midtown,29,51,57,22
+8,Greenwich,14,72,41,33
+9,New Haven,26,67,39,23
+10,Chelsea,36,75,39,15
+11,New Haven,32,80,78,22
+12,Hoboken,12,55,79,13
+13,Tribeca,37,78,54,26
+14,Stamford,40,63,64,31
+15,Norwalk,15,65,42,35
+16,Financial District,17,78,55,34
+17,Soho,16,53,35,18
+18,Chelsea,15,78,66,30
+19,Norwalk,21,56,41,20
+20,Princeton,26,67,75,29
+21,Jersey City,29,70,60,14
+22,Chinatown,18,56,36,26
+23,Jersey City,28,53,76,17
+24,Norwalk,33,69,70,22
+25,Harlem,19,59,54,18
+26,Greenwich,38,75,52,17
+27,Financial District,28,58,41,36
+28,Stamford,25,67,80,9
+29,Hoboken,32,80,65,15
+30,Chinatown,21,54,49,35
+31,Harlem,12,71,34,35
+32,Stamford,18,64,32,10
+33,Hoboken,14,73,54,27
+34,Trenton,18,61,39,30
+35,Stamford,14,80,73,30
+36,Greenwich,25,63,62,10
+37,Hartford,25,50,33,19
+38,Stamford,24,62,70,26
+39,Hoboken,11,69,59,39
+40,Greenwich Village,11,57,78,26
+41,Jersey City,22,60,71,17
+42,Hoboken,33,72,32,12
+43,New Haven,23,66,80,26
+44,Soho,40,72,58,7
+45,Newark,20,59,70,15
+46,Hartford,10,63,32,15
+47,New Haven,22,59,43,37
+48,Little Italy,22,71,72,9
+49,Jersey City,38,66,55,33
+50,Hoboken,14,52,54,30
+51,Stamford,31,67,64,7
+52,Lower East Side,13,58,55,7
+53,Lower East Side,38,57,53,23
+54,Stamford,19,53,41,30
+55,Princeton,30,60,43,8
+56,Soho,22,58,58,38
+57,New Haven,28,68,43,17
+58,New Haven,37,63,75,37
+59,Little Italy,20,70,69,34
+60,Chelsea,22,57,73,6
+61,Stamford,13,52,70,24
+62,Lower East Side,20,56,72,19
+63,Stamford,17,72,52,9
+64,Chinatown,26,54,57,31
+65,Norwalk,21,61,65,34
+66,Greenwich Village,21,53,60,26
+67,Greenwich,39,69,39,26
+68,Soho,12,65,47,30
+69,Norwalk,16,65,54,20
+70,Tribeca,20,60,61,8
+71,Greenwich,40,79,55,14
+72,Soho,26,63,56,24
+73,Midtown,26,75,74,35
+74,Trenton,11,64,57,26
+75,Greenwich Village,36,56,72,11
+76,Financial District,22,52,40,18
+77,New Haven,16,53,73,19
+78,Chelsea,19,51,60,24
+79,Chelsea,21,71,62,18
+80,Tribeca,35,74,35,12
+81,Stamford,17,52,47,35
+82,Little Italy,39,56,63,21
+83,Lower East Side,14,75,38,11
+84,Tribeca,16,80,69,7
+85,Greenwich Village,33,80,67,31
+86,Hoboken,39,64,30,6
+87,Newark,11,75,78,11
+88,Hoboken,35,75,61,32
+89,Stamford,32,63,74,37
+90,Hartford,20,55,30,31
+91,Lower East Side,31,80,80,40
+92,Harlem,25,76,36,33
+93,Harlem,35,77,80,21
+94,Tribeca,33,73,68,5
+95,Hartford,21,67,62,11
+96,Greenwich Village,37,54,46,14
+97,Hoboken,15,58,77,7
+98,Soho,30,70,46,25
+99,Princeton,21,58,44,27
+100,Greenwich,14,55,79,35
+101,New Haven,19,59,61,16
+102,Jersey City,34,78,56,11
+103,New Haven,20,79,74,7
+104,Trenton,28,62,64,10
+105,Greenwich Village,25,79,59,17
+106,Jersey City,11,77,42,33
+107,Hoboken,17,58,41,36
+108,Midtown,36,51,55,37
+109,Greenwich Village,34,52,71,24
+110,Financial District,18,55,66,26
+111,Soho,21,62,42,13
+112,Jersey City,31,68,43,18
+113,Chelsea,33,77,78,26
+114,Midtown,18,74,52,33
+115,Stamford,18,75,69,31
+116,Midtown,36,53,41,33
+117,Midtown,11,60,60,16
+118,Soho,12,52,69,5
+119,Hartford,24,59,30,11
+120,Harlem,23,68,51,6
+121,Chelsea,17,73,44,28
+122,Trenton,16,65,33,10
+123,Chelsea,23,75,54,7
+124,Chinatown,23,65,79,39
+125,Chelsea,29,64,61,39
+126,Princeton,28,68,62,20
+127,Chinatown,14,64,30,32
+128,Princeton,23,52,69,27
+129,Trenton,13,69,43,16
+130,Tribeca,20,62,61,35
+131,Lower East Side,23,61,60,26
+132,Greenwich Village,20,63,52,34
+133,New Haven,40,64,79,7
+134,Greenwich,15,57,65,14
+135,New Haven,24,72,42,39
+136,Greenwich Village,22,58,80,22
+137,Lower East Side,21,72,59,5
+138,Little Italy,39,64,60,38
+139,Harlem,37,64,78,22
+140,Hoboken,36,65,42,17
+141,Stamford,13,52,47,28
+142,Lower East Side,21,62,36,6
+143,Chelsea,39,69,68,32
+144,New Haven,12,64,79,34
+145,Trenton,24,72,76,29
+146,Soho,25,78,61,15
+147,Princeton,21,73,59,25
+148,Hoboken,22,50,45,20
+149,Greenwich Village,20,56,64,12
+150,Greenwich Village,23,57,56,36
+151,Financial District,24,53,48,16
+152,Hoboken,36,70,39,12
+153,Newark,16,70,56,34
+154,Little Italy,34,65,76,37
+155,Lower East Side,13,64,59,19
+156,Greenwich,33,64,31,39
+157,Newark,29,54,76,39
+158,Chinatown,17,73,75,25
+159,Princeton,30,54,36,37
+160,Princeton,14,71,76,14
+161,Midtown,10,76,69,34
+162,Chinatown,39,72,55,7
+163,Harlem,38,59,80,27
+164,Princeton,33,56,45,17
+165,Chinatown,36,63,47,8
+166,Chelsea,25,52,66,14
+167,Princeton,39,65,51,27
+168,Tribeca,14,76,45,25
+169,Norwalk,28,73,40,5
+170,Stamford,37,74,58,32
+171,Financial District,32,56,34,30
+172,Greenwich Village,16,74,48,31
+173,Midtown,40,67,78,34
+174,Newark,19,70,55,6
+175,New Haven,12,62,46,10
+176,Harlem,21,57,37,18
+177,Greenwich,23,51,35,6
+178,Stamford,39,56,68,13
+179,Little Italy,12,53,72,29
+180,Stamford,12,58,42,16
+181,Financial District,40,64,39,15
+182,Trenton,14,70,80,9
+183,Tribeca,34,75,31,17
+184,Little Italy,20,73,47,31
+185,Chelsea,39,69,75,30
+186,Princeton,39,79,49,14
+187,Jersey City,37,62,77,26
+188,Chelsea,13,75,74,38
+189,Little Italy,32,64,46,13
+190,Greenwich,32,74,65,35
+191,Stamford,24,55,31,10
+192,New Haven,19,72,37,7
+193,Jersey City,13,52,35,9
+194,Little Italy,23,79,43,34
+195,Greenwich Village,19,55,80,7
+196,New Haven,27,76,74,11
+197,Midtown,11,51,63,36
+198,Jersey City,14,69,43,17
+199,New Haven,29,73,67,36
+200,Greenwich,32,58,36,39
+201,Princeton,33,73,49,28
+202,Norwalk,40,79,63,23
+203,Chinatown,37,57,60,22
+204,Hoboken,36,53,46,25
+205,Harlem,29,64,68,20
+206,New Haven,35,66,67,5
+207,Jersey City,28,62,73,40
+208,Norwalk,27,61,44,11
+209,Lower East Side,30,62,54,7
+210,Greenwich,31,70,53,17
+211,Midtown,26,52,36,26
+212,Chelsea,14,51,57,14
+213,Tribeca,19,68,59,20
+214,Norwalk,39,56,77,28
+215,Jersey City,34,50,39,5
+216,Hartford,20,76,42,28
+217,Hoboken,35,63,48,5
+218,Tribeca,21,66,48,6
+219,Greenwich Village,33,61,66,14
+220,Princeton,26,70,67,37
+221,Hoboken,36,69,71,39
+222,Lower East Side,22,50,58,38
+223,Little Italy,10,66,76,29
+224,Greenwich,38,56,35,11
+225,Harlem,35,66,44,38
+226,Little Italy,13,55,50,38
+227,Trenton,19,53,79,20
+228,Hoboken,32,76,60,13
+229,Greenwich Village,25,67,61,25
+230,New Haven,18,68,62,16
+231,Newark,39,67,52,28
+232,Lower East Side,10,66,71,19
+233,Midtown,30,72,75,38
+234,Harlem,22,59,51,27
+235,Little Italy,40,66,79,12
+236,Greenwich,15,59,41,6
+237,Tribeca,27,61,53,34
+238,Hartford,35,78,30,31
+239,Trenton,23,67,33,27
+240,Chelsea,34,62,43,23
+241,Hoboken,17,67,73,30
+242,Hartford,36,57,47,30
+243,Soho,20,61,41,10
+244,Jersey City,37,72,51,33
+245,Stamford,28,64,79,40
+246,Tribeca,17,71,75,40
+247,Little Italy,27,51,37,26
+248,New Haven,12,53,61,32
+249,Greenwich,28,52,44,27
+250,Lower East Side,14,66,52,14
+251,Newark,33,50,72,25
+252,Hoboken,25,60,33,17
+253,Newark,18,73,32,29
+254,Trenton,16,75,62,28
+255,Lower East Side,12,77,70,35
+256,Hartford,35,61,62,15
+257,Little Italy,36,69,40,22
+258,Chinatown,13,76,40,16
+259,New Haven,20,63,74,38
+260,Chelsea,37,63,74,13
+261,Greenwich,21,59,51,5
+262,Princeton,14,56,51,36
+263,Norwalk,17,76,32,37
+264,Financial District,11,75,45,27
+265,Hoboken,36,75,41,25
+266,Little Italy,12,65,38,21
+267,New Haven,25,52,77,22
+268,Greenwich,27,55,33,32
+269,Chelsea,11,64,48,29
+270,Hartford,27,52,72,16
+271,Financial District,34,63,62,8
+272,Greenwich,35,68,46,40
+273,Lower East Side,26,74,58,8
+274,Stamford,31,60,38,23
+275,Lower East Side,35,50,66,17
+276,Tribeca,26,58,51,8
+277,Stamford,15,55,31,36
+278,Greenwich Village,15,68,65,7
+279,Chinatown,11,53,54,27
+280,Hartford,18,65,35,11
+281,New Haven,19,56,34,16
+282,Hoboken,28,78,32,25
+283,New Haven,11,61,37,17
+284,Hartford,11,71,71,23
+285,Lower East Side,20,67,39,13
+286,Princeton,12,62,45,32
+287,Newark,14,73,80,37
+288,Newark,36,51,57,38
+289,Tribeca,16,63,49,27
+290,Stamford,26,65,72,14
+291,Greenwich Village,21,74,45,19
+292,Tribeca,15,74,60,22
+293,Chelsea,24,51,64,35
+294,Chelsea,16,58,31,36
+295,Newark,16,51,60,9
+296,Midtown,31,52,31,28
+297,Trenton,33,72,63,14
+298,Hartford,11,52,48,7
+299,Greenwich Village,29,71,73,39
+300,Harlem,14,56,64,17
+301,Trenton,37,50,47,25
+302,Chinatown,40,60,47,40
+303,Greenwich,13,55,69,37
+304,Lower East Side,24,56,76,39
+305,Hoboken,23,70,55,21
+306,Hoboken,21,51,50,39
+307,Princeton,25,64,71,28
+308,Trenton,18,69,67,18
+309,Chelsea,15,75,71,24
+310,Greenwich Village,28,73,68,39
+311,Tribeca,19,72,38,34
+312,Soho,37,51,56,20
+313,Harlem,39,67,42,26
+314,Lower East Side,36,77,45,30
+315,Harlem,16,73,49,32
+316,Little Italy,18,78,42,30
+317,Greenwich,22,62,73,13
+318,Princeton,25,69,76,13
+319,Chelsea,21,54,67,34
+320,Greenwich,17,79,33,23
+321,Norwalk,25,59,40,37
+322,Chinatown,37,72,60,30
+323,Hartford,23,80,52,37
+324,Hoboken,30,77,67,30
+325,Jersey City,26,75,75,32
+326,Newark,19,67,51,23
+327,Midtown,14,72,77,33
+328,Lower East Side,33,56,66,21
+329,Newark,16,68,59,20
+330,Hoboken,27,73,79,36
+331,Norwalk,12,72,71,17
+332,Hoboken,17,68,73,7
+333,Lower East Side,38,80,47,8
+334,Newark,31,66,40,27
+335,Hoboken,26,65,74,6
+336,Chinatown,35,76,45,32
+337,Princeton,18,64,76,14
+338,Hartford,30,64,55,40
+339,Little Italy,18,56,47,31
+340,Chinatown,14,50,66,31
+341,Chinatown,36,58,76,18
+342,Financial District,40,51,77,6
+343,Midtown,24,67,40,40
+344,Chinatown,33,54,78,28
+345,New Haven,11,52,73,9
+346,Norwalk,24,56,66,6
+347,Little Italy,22,76,39,19
+348,Little Italy,29,51,42,16
+349,New Haven,24,60,30,24
+350,Chinatown,15,52,36,35
+351,Harlem,21,62,73,5
+352,Chinatown,24,70,45,13
+353,Chelsea,26,62,38,25
+354,Financial District,38,58,38,5
+355,Little Italy,18,55,54,11
+356,Greenwich,22,59,49,11
+357,Little Italy,35,58,72,23
+358,Tribeca,19,56,43,30
+359,Princeton,27,66,43,19
+360,Princeton,23,52,35,40
+361,Little Italy,29,58,33,12
+362,Harlem,35,78,38,29
+363,Stamford,23,75,46,6
+364,Tribeca,24,63,45,22
+365,Jersey City,14,76,75,6
+366,Midtown,12,77,50,20
+367,Soho,39,75,62,10
+368,Midtown,10,66,34,19
+369,Little Italy,39,53,55,39
+370,Harlem,36,78,79,32
+371,Hoboken,23,66,80,24
+372,Hoboken,35,75,68,37
+373,Midtown,11,51,67,11
+374,Trenton,15,69,53,7
+375,Lower East Side,26,50,41,34
+376,Little Italy,40,55,78,34
+377,Soho,32,80,34,28
+378,Greenwich Village,35,66,73,29
+379,Stamford,33,67,61,33
+380,Greenwich,28,58,39,19
+381,Norwalk,24,51,69,5
+382,Princeton,26,66,57,12
+383,Little Italy,34,55,52,24
+384,Princeton,20,68,71,27
+385,Financial District,19,58,40,39
+386,Lower East Side,18,66,55,11
+387,Norwalk,17,50,40,37
+388,Soho,32,74,80,27
+389,Hartford,10,59,75,20
+390,Trenton,35,55,68,31
+391,Little Italy,27,60,53,5
+392,Chelsea,20,54,72,9
+393,Hartford,24,66,62,7
+394,Tribeca,36,60,76,28
+395,Greenwich,10,66,34,20
+396,Soho,40,59,70,21
+397,Lower East Side,19,65,54,18
+398,Financial District,36,51,56,17
+399,Chinatown,13,70,80,34
+400,Stamford,31,61,30,12
+401,Newark,40,64,48,28
+402,Financial District,32,74,76,38
+403,Financial District,36,61,41,7
+404,Harlem,37,62,74,11
+405,Harlem,31,78,44,12
+406,Lower East Side,19,58,37,19
+407,New Haven,25,73,54,38
+408,Tribeca,22,62,59,11
+409,Chinatown,27,71,72,28
+410,Greenwich,27,54,56,26
+411,Greenwich,12,57,63,13
+412,Tribeca,14,59,50,39
+413,Financial District,20,50,50,13
+414,Jersey City,40,65,53,19
+415,Lower East Side,24,66,57,28
+416,Princeton,33,51,44,23
+417,Stamford,23,61,46,34
+418,Stamford,17,65,67,14
+419,Financial District,38,80,80,28
+420,Hartford,24,54,54,21
+421,Norwalk,31,60,36,29
+422,Lower East Side,35,57,43,34
+423,Soho,13,77,57,16
+424,Little Italy,34,79,68,11
+425,Financial District,28,64,40,39
+426,Newark,14,67,67,28
+427,New Haven,13,67,72,22
+428,Lower East Side,16,55,48,39
+429,Financial District,39,75,72,33
+430,Little Italy,24,70,31,37
+431,Jersey City,17,62,79,36
+432,Norwalk,19,61,55,17
+433,Midtown,33,62,61,6
+434,Hartford,29,50,34,32
+435,Jersey City,15,71,73,22
+436,Lower East Side,37,60,61,40
+437,Financial District,21,55,55,38
+438,Newark,33,64,33,29
+439,New Haven,30,77,40,14
+440,Midtown,25,63,34,26
+441,Harlem,10,55,57,22
+442,Hartford,19,59,54,34
+443,Chinatown,25,77,43,30
+444,Lower East Side,27,58,67,37
+445,Little Italy,38,52,75,18
+446,Chelsea,26,62,64,37
+447,Trenton,12,55,46,36
+448,Midtown,36,75,63,15
+449,Chinatown,18,79,45,28
+450,Midtown,21,67,31,36
+451,Harlem,31,56,59,27
+452,Midtown,33,71,33,21
+453,Hartford,40,57,40,6
+454,Hoboken,40,53,37,40
+455,Tribeca,33,51,61,28
+456,Little Italy,17,60,40,26
+457,Norwalk,25,74,42,27
+458,Financial District,15,70,30,5
+459,Newark,37,56,45,25
+460,Greenwich,21,77,66,28
+461,Trenton,26,70,38,7
+462,Harlem,27,62,75,29
+463,Lower East Side,29,61,57,8
+464,Hoboken,21,71,67,13
+465,Little Italy,18,62,80,17
+466,Greenwich Village,40,67,34,11
+467,Princeton,33,50,50,18
+468,Newark,21,69,64,37
+469,Chelsea,21,64,30,16
+470,Soho,19,72,67,12
+471,Newark,14,61,78,21
+472,Soho,29,77,76,13
+473,Tribeca,11,74,38,17
+474,Jersey City,34,50,64,21
+475,Norwalk,15,62,43,29
+476,Stamford,20,61,66,26
+477,Tribeca,20,68,37,33
+478,Norwalk,13,67,49,28
+479,Greenwich,19,75,48,21
+480,Little Italy,20,63,56,9
+481,Harlem,36,71,42,11
+482,Financial District,13,79,68,18
+483,Newark,15,60,68,26
+484,Princeton,30,59,48,14
+485,Princeton,36,70,36,25
+486,Lower East Side,38,76,58,20
+487,Greenwich,12,69,46,14
+488,Greenwich Village,27,68,52,35
+489,Tribeca,28,72,68,6
+490,Trenton,39,69,70,15
+491,Stamford,25,66,72,8
+492,Hartford,12,62,75,7
+493,Midtown,12,72,31,23
+494,Newark,21,59,71,11
+495,Jersey City,30,54,30,33
+496,Trenton,32,56,58,31
+497,Financial District,13,79,33,15
+498,Hoboken,34,72,74,20
+499,Tribeca,26,71,32,18
+500,Hoboken,23,75,54,28
+501,Financial District,31,59,41,30
+502,Financial District,13,52,79,7
+503,Hartford,16,55,75,22
+504,Soho,36,80,41,29
+505,Norwalk,25,55,38,30
+506,Hartford,13,66,52,20
+507,Soho,38,77,36,21
+508,Norwalk,30,51,48,24
+509,Little Italy,15,77,48,40
+510,Chinatown,39,51,78,16
+511,Norwalk,17,73,35,23
+512,Newark,38,60,78,9
+513,Lower East Side,10,58,67,27
+514,Hartford,18,72,40,18
+515,Norwalk,12,79,66,29
+516,Soho,33,76,38,19
+517,Princeton,19,72,42,11
+518,Jersey City,35,61,41,10
+519,Greenwich,17,77,72,36
+520,Jersey City,34,53,39,17
+521,Lower East Side,11,72,44,23
+522,Norwalk,24,75,71,25
+523,Jersey City,21,52,54,33
+524,Trenton,32,51,71,7
+525,Princeton,39,61,40,38
+526,Newark,18,70,72,10
+527,Little Italy,35,70,39,34
+528,Jersey City,28,58,69,36
+529,Hoboken,38,73,33,36
+530,Lower East Side,33,55,49,8
+531,Little Italy,29,50,49,22
+532,Soho,17,65,53,31
+533,Trenton,13,57,55,25
+534,Tribeca,28,71,75,8
+535,Stamford,29,77,46,26
+536,Soho,12,67,65,13
+537,Greenwich Village,25,68,54,38
+538,Hoboken,25,63,34,24
+539,Norwalk,39,60,64,20
+540,New Haven,38,63,38,31
+541,Midtown,26,75,44,28
+542,Norwalk,31,69,36,38
+543,Stamford,35,65,35,31
+544,Hoboken,35,76,69,40
+545,Hartford,16,64,46,21
+546,Hartford,15,68,44,17
+547,Trenton,18,56,31,25
+548,Harlem,21,57,80,27
+549,Tribeca,14,74,69,14
+550,Newark,38,52,31,10
+551,Princeton,12,70,42,35
+552,Stamford,30,78,52,23
+553,Jersey City,29,67,44,25
+554,Stamford,29,78,60,36
+555,Hartford,20,52,50,8
+556,Norwalk,20,66,37,13
+557,Newark,33,60,58,19
+558,Tribeca,10,66,63,40
+559,Newark,19,79,46,36
+560,Soho,35,62,54,26
+561,Chelsea,32,59,49,26
+562,Norwalk,26,80,35,11
+563,Lower East Side,29,60,32,15
+564,Midtown,22,73,66,24
+565,Harlem,11,71,50,38
+566,Soho,14,52,42,16
+567,Hartford,16,64,32,14
+568,Trenton,16,57,71,14
+569,Greenwich,11,64,62,32
+570,Midtown,31,59,55,35
+571,Chelsea,39,62,40,12
+572,Harlem,24,52,33,28
+573,Little Italy,10,62,40,35
+574,Greenwich,18,50,67,6
+575,Harlem,30,68,65,25
+576,Jersey City,36,68,35,12
+577,Soho,33,73,76,34
+578,Trenton,25,76,45,16
+579,Harlem,36,67,62,24
+580,Tribeca,23,73,45,11
+581,Lower East Side,12,52,39,28
+582,Chinatown,30,63,72,5
+583,New Haven,30,59,59,37
+584,Little Italy,20,71,34,27
+585,Lower East Side,32,71,40,29
+586,Tribeca,35,68,67,24
+587,Greenwich Village,39,66,67,7
+588,Hartford,28,55,78,31
+589,Chelsea,38,52,34,35
+590,Soho,12,59,78,5
+591,Lower East Side,29,53,71,15
+592,Chelsea,18,69,53,39
+593,Stamford,30,52,43,40
+594,Norwalk,28,63,71,34
+595,Trenton,26,76,56,23
+596,Chelsea,19,71,39,21
+597,Jersey City,26,64,63,10
+598,Greenwich,40,51,47,24
+599,Hoboken,35,77,37,27
+600,Greenwich,37,66,68,28
+601,Tribeca,29,70,78,18
+602,Stamford,29,67,38,30
+603,Newark,11,64,47,17
+604,Little Italy,13,52,42,13
+605,Greenwich,36,68,41,30
+606,Financial District,16,52,49,8
+607,Lower East Side,34,54,80,35
+608,Stamford,18,65,79,18
+609,Greenwich,11,74,66,7
+610,Greenwich,26,54,49,25
+611,Soho,40,61,68,31
+612,Hartford,12,74,41,17
+613,Lower East Side,15,61,57,31
+614,Trenton,10,72,73,9
+615,Soho,15,70,80,30
+616,Norwalk,32,56,35,34
+617,Tribeca,35,76,60,28
+618,New Haven,28,78,63,36
+619,Chelsea,28,66,65,8
+620,Financial District,26,79,46,6
+621,New Haven,25,59,49,22
+622,Greenwich,18,54,63,30
+623,Harlem,23,78,42,6
+624,Harlem,35,55,65,15
+625,Trenton,26,79,50,30
+626,Tribeca,22,55,39,40
+627,Jersey City,20,61,60,30
+628,Greenwich,37,50,74,21
+629,Financial District,33,58,51,8
+630,Tribeca,29,57,39,25
+631,Harlem,13,74,48,20
+632,New Haven,28,74,76,13
+633,Chinatown,20,60,41,35
+634,Jersey City,34,70,40,19
+635,Greenwich Village,14,55,56,30
+636,Chelsea,27,77,39,12
+637,Harlem,12,51,46,31
+638,Soho,12,59,77,11
+639,Norwalk,33,73,57,35
+640,Tribeca,37,63,77,37
+641,Norwalk,12,58,64,6
+642,Chelsea,14,54,57,23
+643,Newark,23,51,63,40
+644,Jersey City,20,75,58,37
+645,Harlem,39,76,60,25
+646,Princeton,26,51,49,13
+647,Greenwich,12,60,75,6
+648,New Haven,19,66,65,35
+649,Greenwich Village,30,62,78,12
+650,New Haven,12,68,47,8
+651,Greenwich Village,31,58,66,30
+652,New Haven,20,77,52,30
+653,Princeton,32,52,69,25
+654,Chinatown,27,57,51,18
+655,Chinatown,12,75,42,21
+656,Norwalk,20,75,61,23
+657,Trenton,31,53,36,18
+658,Greenwich,19,78,71,28
+659,Jersey City,20,65,42,28
+660,New Haven,27,79,39,36
+661,Financial District,11,64,75,23
+662,Lower East Side,29,60,75,21
+663,Tribeca,14,62,55,30
+664,Jersey City,10,69,54,27
+665,Little Italy,18,61,54,23
+666,Tribeca,25,72,32,11
+667,Harlem,35,77,66,10
+668,Jersey City,27,71,36,14
+669,Chelsea,29,65,63,26
+670,Newark,13,73,42,39
+671,Chelsea,34,51,70,8
+672,Lower East Side,34,60,62,27
+673,Jersey City,17,52,63,21
+674,Chelsea,20,78,33,31
+675,Chelsea,36,62,53,35
+676,Greenwich Village,13,54,54,24
+677,Newark,21,51,76,29
+678,Midtown,37,60,64,16
+679,Tribeca,25,73,65,38
+680,Chelsea,24,63,76,37
+681,Chelsea,34,62,35,16
+682,Midtown,20,61,69,19
+683,Chelsea,37,66,49,20
+684,Hartford,20,54,65,37
+685,Midtown,29,56,54,10
+686,Soho,20,58,73,22
+687,Jersey City,26,50,71,25
+688,Soho,26,51,43,33
+689,Stamford,13,76,52,10
+690,Hartford,21,60,50,10
+691,Tribeca,39,54,49,15
+692,Chelsea,25,56,67,40
+693,Midtown,16,66,63,26
+694,Greenwich Village,23,50,36,20
+695,Princeton,39,55,60,32
+696,Chinatown,27,73,58,13
+697,Harlem,23,57,70,29
+698,Jersey City,36,62,46,23
+699,Tribeca,13,67,80,27
+700,Hartford,17,55,69,6
+701,Lower East Side,26,55,58,11
+702,Stamford,31,59,58,20
+703,Princeton,24,75,49,23
+704,Newark,21,63,55,20
+705,Tribeca,15,69,39,10
+706,Hartford,32,80,42,27
+707,Financial District,29,64,62,10
+708,Stamford,31,59,43,24
+709,Hoboken,26,78,78,26
+710,Financial District,13,52,35,31
+711,Greenwich Village,39,50,38,16
+712,Greenwich,17,71,44,11
+713,Little Italy,26,65,66,32
+714,Norwalk,21,66,47,10
+715,Newark,29,57,49,6
+716,Little Italy,22,63,60,14
+717,Newark,19,51,50,20
+718,Stamford,39,76,49,24
+719,Little Italy,30,54,50,19
+720,Harlem,27,52,53,31
+721,Chelsea,32,70,40,25
+722,Norwalk,40,52,56,6
+723,Hartford,13,73,45,33
+724,Chinatown,31,78,63,8
+725,Soho,32,76,54,10
+726,Greenwich Village,25,78,49,10
+727,Chinatown,37,55,53,35
+728,Hartford,32,51,51,16
+729,Lower East Side,17,56,68,32
+730,Princeton,21,80,36,31
+731,Midtown,29,68,63,20
+732,Stamford,11,74,79,15
+733,Greenwich,17,78,42,18
+734,Little Italy,17,68,55,35
+735,Greenwich,16,80,58,8
+736,Norwalk,12,70,48,28
+737,Jersey City,18,59,51,8
+738,Hoboken,23,67,68,26
+739,Chelsea,28,58,70,25
+740,New Haven,28,70,32,38
+741,Stamford,20,66,38,5
+742,Hartford,39,65,54,29
+743,Norwalk,12,69,60,37
+744,Harlem,40,51,42,12
+745,Chinatown,20,76,77,24
+746,Financial District,12,51,41,12
+747,Chinatown,15,63,41,22
+748,Trenton,20,70,77,31
+749,Norwalk,34,77,61,19
+750,Jersey City,37,55,34,14
+751,Stamford,21,73,73,39
+752,Lower East Side,16,75,42,19
+753,Newark,36,52,36,8
+754,Norwalk,21,74,37,24
+755,Lower East Side,37,77,36,8
+756,Trenton,30,77,77,32
+757,Princeton,10,75,64,34
+758,Harlem,32,68,30,29
+759,New Haven,25,63,56,21
+760,Greenwich Village,36,69,78,22
+761,Stamford,15,55,62,37
+762,Hartford,31,61,32,33
+763,Tribeca,19,67,49,22
+764,Harlem,19,58,62,35
+765,Trenton,25,71,35,10
+766,Hoboken,37,62,51,18
+767,Financial District,22,63,38,12
+768,Hartford,38,50,55,37
+769,Princeton,15,64,62,21
+770,Little Italy,17,57,66,5
+771,Harlem,20,74,52,10
+772,Stamford,12,63,70,16
+773,Norwalk,34,57,30,12
+774,Princeton,39,61,58,23
+775,Chinatown,38,59,33,26
+776,Little Italy,11,64,35,23
+777,Greenwich,28,53,57,7
+778,Greenwich Village,35,78,69,36
+779,Princeton,13,74,59,33
+780,Financial District,17,69,80,19
+781,Tribeca,40,61,70,5
+782,Trenton,24,64,58,6
+783,Stamford,35,56,37,10
+784,Jersey City,33,63,63,24
+785,Midtown,16,54,39,7
+786,Stamford,11,54,69,31
+787,Chelsea,23,52,57,15
+788,Newark,36,62,75,9
+789,Financial District,30,53,50,23
+790,Tribeca,21,75,50,33
+791,Chinatown,40,78,64,12
+792,Trenton,40,69,60,13
+793,Financial District,23,76,41,27
+794,Jersey City,39,70,66,11
+795,Financial District,11,78,62,27
+796,Hartford,14,53,64,14
+797,Chinatown,12,60,34,36
+798,Chelsea,18,60,42,16
+799,Greenwich,22,59,43,27
+800,New Haven,32,70,37,31
+801,Trenton,31,79,42,24
+802,Greenwich Village,16,79,41,24
+803,Greenwich Village,28,79,49,25
+804,Jersey City,33,71,53,28
+805,Hartford,32,56,61,36
+806,Norwalk,33,63,57,39
+807,Trenton,12,70,33,34
+808,Greenwich Village,24,69,43,40
+809,Hoboken,14,66,39,14
+810,Stamford,31,68,41,13
+811,Soho,23,59,49,21
+812,Stamford,28,53,37,25
+813,Midtown,36,74,40,10
+814,Trenton,20,62,30,9
+815,Greenwich Village,15,69,56,21
+816,Newark,36,76,77,19
+817,Midtown,10,75,31,24
+818,New Haven,18,58,39,31
+819,Midtown,29,77,32,34
+820,Hoboken,37,55,54,10
+821,Jersey City,35,50,32,12
+822,Princeton,29,69,79,36
+823,Jersey City,34,54,43,37
+824,Chelsea,11,69,31,40
+825,Trenton,35,53,32,30
+826,New Haven,24,56,42,38
+827,Tribeca,14,73,74,24
+828,Midtown,12,68,80,11
+829,Chinatown,39,73,40,34
+830,Financial District,14,68,34,11
+831,Financial District,19,58,64,29
+832,Chinatown,16,67,64,18
+833,Stamford,10,73,33,5
+834,Jersey City,25,61,75,22
+835,Trenton,24,54,80,5
+836,Soho,20,73,74,5
+837,Hoboken,35,78,30,32
+838,Greenwich Village,30,57,79,14
+839,New Haven,12,59,38,20
+840,Chelsea,14,77,43,18
+841,Tribeca,21,61,77,29
+842,Financial District,23,61,44,29
+843,Chelsea,17,69,59,15
+844,Princeton,31,63,38,26
+845,Tribeca,32,59,30,11
+846,Stamford,27,72,71,39
+847,New Haven,14,53,50,7
+848,Greenwich Village,34,77,50,18
+849,Financial District,11,60,37,21
+850,Soho,39,63,31,17
+851,Little Italy,11,71,58,20
+852,Greenwich,26,71,67,27
+853,Financial District,30,74,67,29
+854,Hoboken,11,71,72,23
+855,Harlem,30,78,51,15
+856,Soho,40,79,31,12
+857,Princeton,17,70,74,32
+858,Stamford,39,77,74,24
+859,Midtown,29,74,71,11
+860,Soho,17,60,47,36
+861,Stamford,29,71,67,19
+862,Soho,34,51,52,27
+863,Soho,29,73,67,18
+864,Norwalk,21,52,66,25
+865,Stamford,23,64,78,30
+866,Chelsea,26,77,62,14
+867,Midtown,24,60,61,9
+868,Harlem,11,60,56,20
+869,Lower East Side,35,57,42,22
+870,Hoboken,16,60,71,33
+871,Little Italy,19,56,64,39
+872,Greenwich,14,53,64,31
+873,Lower East Side,30,78,41,32
+874,Jersey City,17,54,31,19
+875,Tribeca,14,50,36,30
+876,Trenton,13,65,48,39
+877,Hoboken,18,63,77,20
+878,Princeton,24,73,73,14
+879,Midtown,10,54,69,24
+880,Soho,29,79,44,11
+881,Little Italy,26,78,44,17
+882,Financial District,11,77,68,36
+883,Greenwich,26,74,59,34
+884,Newark,29,56,54,34
+885,Lower East Side,15,60,40,34
+886,Greenwich Village,39,66,52,27
+887,Newark,35,53,59,35
+888,Financial District,25,61,61,8
+889,Hartford,36,64,33,37
+890,Midtown,39,57,37,27
+891,Soho,21,53,40,16
+892,Soho,17,64,58,28
+893,Harlem,24,75,74,8
+894,Stamford,31,51,51,10
+895,Hoboken,36,72,33,38
+896,Hoboken,20,69,79,18
+897,Soho,39,75,35,26
+898,Trenton,11,53,80,35
+899,Financial District,17,62,44,39
+900,Jersey City,10,58,69,21
+901,Soho,33,65,32,31
+902,Norwalk,31,58,76,14
+903,Hoboken,31,63,52,20
+904,Tribeca,20,62,55,10
+905,Hartford,40,79,36,29
+906,New Haven,18,55,62,28
+907,Newark,30,79,53,24
+908,Soho,15,65,34,28
+909,Princeton,30,56,43,20
+910,Princeton,17,62,76,31
+911,Hoboken,25,70,71,17
+912,Little Italy,36,68,32,21
+913,Little Italy,10,67,32,18
+914,Soho,16,55,78,10
+915,Midtown,12,66,35,37
+916,Newark,25,54,74,39
+917,Chelsea,35,75,31,34
+918,Trenton,27,52,62,20
+919,Soho,13,59,48,22
+920,Stamford,33,62,51,6
+921,Chinatown,18,65,55,31
+922,Trenton,30,61,34,36
+923,Harlem,30,73,59,37
+924,Trenton,13,61,78,14
+925,Newark,23,61,56,17
+926,Trenton,34,61,70,15
+927,Midtown,15,53,55,15
+928,Chinatown,38,53,49,25
+929,Harlem,27,65,67,14
+930,Stamford,25,70,58,25
+931,Jersey City,11,76,35,10
+932,Greenwich,23,75,58,30
+933,Midtown,36,74,53,20
+934,Soho,36,78,70,28
+935,Greenwich Village,12,63,76,39
+936,Greenwich Village,27,73,64,37
+937,Stamford,14,61,36,25
+938,Financial District,33,71,32,17
+939,New Haven,31,59,78,34
+940,Greenwich,11,61,64,9
+941,Little Italy,34,57,58,9
+942,Norwalk,16,78,30,30
+943,Greenwich,21,69,80,10
+944,Tribeca,13,78,67,5
+945,Midtown,26,64,55,12
+946,Norwalk,38,80,51,28
+947,Jersey City,10,66,76,8
+948,Norwalk,13,73,80,11
+949,Newark,25,73,64,16
+950,Greenwich,34,61,47,35
+951,Greenwich,15,72,36,13
+952,Soho,14,64,78,9
+953,Chinatown,28,54,79,20
+954,Chelsea,33,76,67,21
+955,Lower East Side,39,61,43,21
+956,Lower East Side,20,76,57,38
+957,New Haven,37,80,55,25
+958,Jersey City,18,72,43,32
+959,Chinatown,30,63,79,25
+960,Chelsea,14,63,34,23
+961,Stamford,34,64,47,8
+962,Midtown,15,62,34,28
+963,Financial District,10,55,48,9
+964,Jersey City,30,67,80,13
+965,Harlem,25,75,40,16
+966,Chelsea,14,79,39,11
+967,Little Italy,24,75,47,13
+968,Chinatown,29,66,68,38
+969,Hartford,18,58,51,28
+970,Chinatown,23,72,55,33
+971,Norwalk,17,68,76,17
+972,Midtown,38,64,73,6
+973,Soho,28,78,64,26
+974,Greenwich,11,54,74,33
+975,Greenwich,24,74,56,7
+976,Lower East Side,16,77,53,26
+977,Tribeca,10,54,45,9
+978,Greenwich Village,11,61,37,25
+979,Lower East Side,32,50,31,8
+980,Midtown,14,78,32,17
+981,Hartford,26,77,75,9
+982,Norwalk,10,61,34,20
+983,Lower East Side,37,52,30,36
+984,Hoboken,13,72,37,25
+985,Financial District,22,67,34,6
+986,Chelsea,11,57,59,26
+987,Stamford,35,74,55,12
+988,Hartford,38,59,52,10
+989,Little Italy,22,59,45,5
+990,Financial District,11,51,50,6
+991,Greenwich Village,14,65,69,13
+992,Harlem,11,64,80,24
+993,Greenwich,19,75,43,29
+994,Greenwich,30,65,39,29
+995,Greenwich Village,16,79,54,11
+996,Hartford,24,60,73,37
+997,Hoboken,24,79,65,25
+998,Princeton,13,72,74,40
+999,Lower East Side,17,71,55,9
+1000,Lower East Side,31,78,61,40

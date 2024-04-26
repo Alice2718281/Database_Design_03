@@ -1,0 +1,1001 @@
+construction_id,architectural_style,construction_material,foundation,condition
+935,Craftsman,Glass,Crawl Space,Under Construction
+718,Craftsman,Brick,Raft,Excellent
+731,Colonial,Steel,Basement,Very Good
+555,Ranch,Concrete,Basement,Under Construction
+876,Victorian,Stone,Basement,Good
+397,Ranch,Steel,Brick,Newly Renovated
+911,Craftsman,Steel,Wood,Fair
+505,Modern,Glass,Pier and Beam,Under Construction
+219,Modern,Glass,Stone,Excellent
+981,Colonial,Stone,Pier and Beam,Poor
+15,Cottage,Steel,Stone,Excellent
+552,Craftsman,Vinyl,Wood,Needs Work
+559,Ranch,Steel,Wood,Excellent
+907,Modern,Stone,Pier and Beam,Under Construction
+450,Victorian,Stone,Wood,Excellent
+60,Colonial,Vinyl,Wood,Fair
+126,Ranch,Steel,Concrete Slab,Poor
+961,Modern,Brick,Concrete Slab,Under Construction
+486,Contemporary,Brick,Concrete Slab,Excellent
+926,Modern,Steel,Basement,Excellent
+870,Ranch,Steel,Raft,Needs Work
+285,Colonial,Glass,Raft,Under Construction
+204,Colonial,Brick,Brick,Under Construction
+25,Contemporary,Glass,Stone,Poor
+155,Victorian,Steel,Basement,Very Good
+666,Mediterranean,Steel,Pier and Beam,Under Construction
+824,Victorian,Brick,Brick,Very Good
+930,Victorian,Wood,Concrete Slab,Under Construction
+822,Ranch,Stucco,Pier and Beam,Excellent
+307,Craftsman,Stucco,Concrete Slab,Needs Work
+542,Colonial,Steel,Concrete Slab,Excellent
+281,Craftsman,Glass,Basement,Fair
+69,Ranch,Wood,Brick,Good
+821,Modern,Brick,Basement,Poor
+724,Mediterranean,Brick,Raft,Under Construction
+739,Victorian,Steel,Crawl Space,Newly Renovated
+893,Craftsman,Vinyl,Concrete Slab,Under Construction
+742,Contemporary,Steel,Wood,Excellent
+72,Craftsman,Wood,Concrete Slab,Good
+597,Craftsman,Vinyl,Pier and Beam,Poor
+628,Cottage,Concrete,Basement,Very Good
+318,Cottage,Steel,Pier and Beam,Poor
+97,Contemporary,Stone,Wood,Newly Renovated
+985,Victorian,Steel,Concrete Slab,Poor
+745,Craftsman,Glass,Stone,Under Construction
+977,Mediterranean,Glass,Concrete Slab,Under Construction
+296,Victorian,Steel,Basement,Newly Renovated
+631,Modern,Brick,Brick,Poor
+400,Colonial,Stone,Brick,Good
+344,Colonial,Steel,Concrete Slab,Needs Work
+152,Modern,Stucco,Brick,Excellent
+39,Victorian,Stucco,Raft,Excellent
+361,Modern,Wood,Pier and Beam,Fair
+375,Craftsman,Steel,Crawl Space,Fair
+962,Mediterranean,Wood,Pier and Beam,Poor
+639,Mediterranean,Wood,Pier and Beam,Excellent
+640,Cottage,Glass,Raft,Very Good
+178,Contemporary,Stone,Basement,Very Good
+588,Ranch,Vinyl,Wood,Good
+249,Contemporary,Brick,Concrete Slab,Needs Work
+128,Craftsman,Glass,Concrete Slab,Good
+31,Contemporary,Wood,Concrete Slab,Fair
+999,Craftsman,Stone,Concrete Slab,Excellent
+111,Cottage,Steel,Stone,Needs Work
+438,Modern,Stucco,Wood,Poor
+955,Victorian,Glass,Wood,Poor
+483,Craftsman,Glass,Raft,Poor
+350,Ranch,Steel,Stone,Needs Work
+817,Contemporary,Steel,Brick,Under Construction
+572,Craftsman,Vinyl,Stone,Newly Renovated
+194,Cottage,Stucco,Concrete Slab,Excellent
+352,Craftsman,Stucco,Basement,Poor
+959,Victorian,Glass,Stone,Under Construction
+796,Mediterranean,Glass,Wood,Very Good
+717,Colonial,Glass,Stone,Needs Work
+592,Modern,Vinyl,Pier and Beam,Newly Renovated
+95,Contemporary,Stone,Basement,Poor
+512,Victorian,Vinyl,Concrete Slab,Newly Renovated
+506,Contemporary,Steel,Brick,Very Good
+428,Colonial,Concrete,Concrete Slab,Excellent
+268,Contemporary,Brick,Raft,Fair
+385,Modern,Vinyl,Brick,Very Good
+637,Cottage,Glass,Basement,Excellent
+143,Victorian,Glass,Brick,Needs Work
+294,Craftsman,Stone,Pier and Beam,Good
+237,Victorian,Wood,Concrete Slab,Very Good
+882,Mediterranean,Glass,Crawl Space,Poor
+697,Ranch,Glass,Concrete Slab,Under Construction
+769,Modern,Steel,Concrete Slab,Fair
+224,Victorian,Wood,Brick,Needs Work
+677,Craftsman,Wood,Basement,Very Good
+667,Victorian,Steel,Concrete Slab,Poor
+691,Cottage,Wood,Stone,Good
+332,Cottage,Glass,Stone,Newly Renovated
+923,Modern,Vinyl,Concrete Slab,Excellent
+589,Ranch,Steel,Raft,Under Construction
+368,Victorian,Concrete,Raft,Poor
+861,Cottage,Concrete,Basement,Needs Work
+979,Craftsman,Stucco,Basement,Fair
+454,Cottage,Concrete,Concrete Slab,Newly Renovated
+499,Ranch,Wood,Stone,Newly Renovated
+49,Ranch,Vinyl,Concrete Slab,Very Good
+785,Contemporary,Steel,Brick,Poor
+106,Mediterranean,Stucco,Wood,Excellent
+173,Mediterranean,Steel,Brick,Excellent
+646,Cottage,Brick,Crawl Space,Under Construction
+953,Victorian,Brick,Wood,Needs Work
+276,Craftsman,Concrete,Crawl Space,Very Good
+139,Colonial,Vinyl,Pier and Beam,Needs Work
+850,Craftsman,Steel,Basement,Needs Work
+820,Colonial,Brick,Pier and Beam,Fair
+223,Colonial,Brick,Stone,Under Construction
+538,Mediterranean,Stone,Brick,Newly Renovated
+973,Colonial,Glass,Wood,Good
+695,Mediterranean,Brick,Concrete Slab,Very Good
+66,Modern,Glass,Stone,Poor
+704,Craftsman,Concrete,Pier and Beam,Newly Renovated
+751,Cottage,Wood,Stone,Newly Renovated
+494,Victorian,Stucco,Stone,Needs Work
+714,Colonial,Concrete,Raft,Poor
+547,Contemporary,Stone,Concrete Slab,Needs Work
+137,Craftsman,Wood,Basement,Poor
+211,Victorian,Glass,Raft,Needs Work
+574,Contemporary,Wood,Concrete Slab,Excellent
+847,Victorian,Glass,Pier and Beam,Under Construction
+42,Contemporary,Wood,Brick,Very Good
+684,Cottage,Concrete,Raft,Under Construction
+94,Cottage,Wood,Raft,Newly Renovated
+272,Victorian,Brick,Concrete Slab,Very Good
+239,Ranch,Brick,Concrete Slab,Under Construction
+688,Craftsman,Glass,Wood,Very Good
+286,Craftsman,Glass,Pier and Beam,Very Good
+74,Modern,Stone,Brick,Needs Work
+144,Ranch,Wood,Stone,Needs Work
+212,Colonial,Vinyl,Wood,Very Good
+63,Colonial,Glass,Wood,Newly Renovated
+854,Colonial,Brick,Concrete Slab,Poor
+528,Modern,Steel,Raft,Fair
+598,Cottage,Stone,Raft,Needs Work
+233,Cottage,Steel,Brick,Excellent
+998,Contemporary,Stucco,Wood,Under Construction
+256,Ranch,Stone,Stone,Fair
+593,Craftsman,Vinyl,Brick,Newly Renovated
+263,Modern,Stone,Basement,Under Construction
+65,Colonial,Wood,Stone,Newly Renovated
+599,Craftsman,Steel,Concrete Slab,Poor
+709,Colonial,Steel,Concrete Slab,Under Construction
+51,Colonial,Stone,Basement,Newly Renovated
+787,Craftsman,Brick,Basement,Newly Renovated
+383,Ranch,Steel,Concrete Slab,Poor
+719,Craftsman,Glass,Stone,Fair
+287,Cottage,Stucco,Brick,Very Good
+595,Contemporary,Brick,Brick,Poor
+290,Ranch,Stucco,Wood,Good
+683,Colonial,Glass,Wood,Under Construction
+142,Victorian,Brick,Stone,Under Construction
+336,Victorian,Glass,Wood,Fair
+210,Craftsman,Vinyl,Crawl Space,Very Good
+516,Colonial,Stone,Concrete Slab,Excellent
+275,Ranch,Concrete,Concrete Slab,Good
+583,Mediterranean,Steel,Raft,Under Construction
+185,Craftsman,Stucco,Brick,Needs Work
+901,Craftsman,Concrete,Stone,Very Good
+390,Ranch,Stucco,Raft,Good
+874,Mediterranean,Stucco,Stone,Under Construction
+164,Cottage,Wood,Raft,Good
+952,Contemporary,Stucco,Basement,Good
+443,Contemporary,Glass,Brick,Needs Work
+248,Victorian,Steel,Raft,Very Good
+478,Modern,Stucco,Crawl Space,Under Construction
+445,Contemporary,Steel,Raft,Newly Renovated
+632,Cottage,Glass,Brick,Needs Work
+813,Ranch,Stone,Brick,Poor
+32,Contemporary,Wood,Wood,Needs Work
+462,Victorian,Steel,Raft,Needs Work
+600,Contemporary,Stone,Basement,Very Good
+265,Modern,Brick,Concrete Slab,Good
+245,Cottage,Wood,Wood,Fair
+764,Colonial,Wood,Concrete Slab,Needs Work
+577,Craftsman,Brick,Raft,Very Good
+466,Modern,Stucco,Concrete Slab,Very Good
+679,Cottage,Concrete,Wood,Needs Work
+500,Mediterranean,Concrete,Concrete Slab,Good
+786,Contemporary,Vinyl,Crawl Space,Newly Renovated
+828,Craftsman,Stone,Crawl Space,Fair
+866,Victorian,Vinyl,Basement,Needs Work
+236,Craftsman,Glass,Wood,Fair
+44,Cottage,Steel,Stone,Excellent
+902,Cottage,Steel,Pier and Beam,Needs Work
+442,Colonial,Steel,Basement,Poor
+408,Ranch,Glass,Stone,Good
+393,Contemporary,Steel,Concrete Slab,Under Construction
+878,Victorian,Concrete,Basement,Excellent
+255,Victorian,Stucco,Pier and Beam,Very Good
+250,Modern,Brick,Brick,Good
+118,Ranch,Concrete,Wood,Poor
+341,Victorian,Wood,Stone,Newly Renovated
+191,Contemporary,Vinyl,Basement,Excellent
+119,Colonial,Wood,Concrete Slab,Very Good
+339,Craftsman,Brick,Wood,Very Good
+310,Craftsman,Glass,Basement,Poor
+849,Victorian,Concrete,Concrete Slab,Under Construction
+232,Craftsman,Brick,Crawl Space,Excellent
+174,Victorian,Brick,Basement,Very Good
+811,Mediterranean,Stone,Wood,Very Good
+672,Cottage,Stone,Basement,Excellent
+563,Ranch,Glass,Crawl Space,Fair
+833,Ranch,Concrete,Basement,Under Construction
+157,Mediterranean,Brick,Stone,Very Good
+663,Ranch,Vinyl,Raft,Excellent
+556,Mediterranean,Stucco,Wood,Poor
+423,Modern,Stone,Stone,Needs Work
+404,Craftsman,Concrete,Crawl Space,Good
+855,Mediterranean,Steel,Wood,Under Construction
+447,Colonial,Stone,Brick,Newly Renovated
+2,Cottage,Brick,Raft,Needs Work
+120,Modern,Brick,Basement,Under Construction
+345,Contemporary,Brick,Wood,Excellent
+91,Mediterranean,Vinyl,Crawl Space,Under Construction
+960,Cottage,Glass,Pier and Beam,Under Construction
+733,Mediterranean,Stone,Brick,Fair
+705,Contemporary,Stone,Pier and Beam,Newly Renovated
+844,Victorian,Stone,Basement,Good
+578,Modern,Steel,Pier and Beam,Very Good
+88,Mediterranean,Stucco,Basement,Newly Renovated
+282,Colonial,Glass,Basement,Excellent
+54,Ranch,Stone,Wood,Excellent
+101,Victorian,Vinyl,Crawl Space,Very Good
+629,Ranch,Concrete,Stone,Very Good
+858,Colonial,Stone,Brick,Excellent
+765,Contemporary,Concrete,Brick,Needs Work
+749,Modern,Stone,Stone,Newly Renovated
+916,Contemporary,Stone,Pier and Beam,Poor
+791,Cottage,Stone,Concrete Slab,Fair
+153,Contemporary,Steel,Basement,Very Good
+463,Contemporary,Stone,Raft,Very Good
+80,Mediterranean,Glass,Brick,Poor
+314,Colonial,Brick,Basement,Newly Renovated
+571,Colonial,Glass,Basement,Very Good
+984,Mediterranean,Steel,Pier and Beam,Good
+891,Modern,Wood,Crawl Space,Fair
+363,Ranch,Steel,Stone,Poor
+229,Cottage,Steel,Basement,Under Construction
+682,Colonial,Glass,Pier and Beam,Needs Work
+859,Mediterranean,Vinyl,Basement,Newly Renovated
+64,Victorian,Wood,Stone,Excellent
+269,Ranch,Stone,Raft,Needs Work
+708,Contemporary,Concrete,Brick,Under Construction
+312,Victorian,Concrete,Crawl Space,Newly Renovated
+480,Modern,Stone,Raft,Good
+525,Craftsman,Glass,Brick,Under Construction
+514,Craftsman,Vinyl,Pier and Beam,Good
+794,Craftsman,Brick,Pier and Beam,Good
+231,Mediterranean,Glass,Stone,Excellent
+873,Ranch,Concrete,Brick,Needs Work
+898,Craftsman,Brick,Raft,Excellent
+305,Modern,Wood,Brick,Poor
+340,Colonial,Steel,Pier and Beam,Very Good
+798,Cottage,Stucco,Basement,Fair
+603,Colonial,Glass,Concrete Slab,Poor
+890,Modern,Concrete,Brick,Poor
+104,Mediterranean,Steel,Brick,Good
+641,Cottage,Vinyl,Crawl Space,Good
+621,Cottage,Vinyl,Concrete Slab,Fair
+710,Cottage,Stone,Basement,Newly Renovated
+468,Mediterranean,Vinyl,Basement,Fair
+715,Mediterranean,Wood,Concrete Slab,Poor
+161,Colonial,Stone,Crawl Space,Under Construction
+819,Victorian,Stone,Wood,Under Construction
+129,Victorian,Glass,Stone,Good
+414,Contemporary,Glass,Concrete Slab,Fair
+6,Cottage,Wood,Pier and Beam,Poor
+980,Cottage,Steel,Wood,Newly Renovated
+995,Contemporary,Wood,Stone,Under Construction
+809,Contemporary,Vinyl,Basement,Fair
+288,Craftsman,Brick,Stone,Newly Renovated
+214,Colonial,Wood,Pier and Beam,Fair
+259,Mediterranean,Glass,Raft,Fair
+43,Modern,Vinyl,Raft,Under Construction
+540,Ranch,Stone,Wood,Newly Renovated
+605,Mediterranean,Stucco,Basement,Newly Renovated
+534,Cottage,Wood,Basement,Fair
+45,Contemporary,Wood,Basement,Poor
+163,Contemporary,Glass,Stone,Fair
+107,Colonial,Steel,Raft,Needs Work
+671,Mediterranean,Stucco,Crawl Space,Fair
+660,Modern,Vinyl,Brick,Good
+638,Modern,Stucco,Crawl Space,Good
+905,Craftsman,Steel,Concrete Slab,Poor
+655,Craftsman,Stucco,Basement,Fair
+439,Mediterranean,Vinyl,Brick,Fair
+13,Craftsman,Brick,Crawl Space,Poor
+444,Colonial,Steel,Stone,Newly Renovated
+75,Modern,Wood,Basement,Needs Work
+492,Contemporary,Brick,Wood,Poor
+76,Mediterranean,Steel,Brick,Newly Renovated
+507,Colonial,Vinyl,Basement,Needs Work
+227,Cottage,Steel,Concrete Slab,Good
+906,Contemporary,Stucco,Crawl Space,Good
+767,Contemporary,Steel,Concrete Slab,Fair
+179,Victorian,Wood,Wood,Very Good
+381,Contemporary,Steel,Crawl Space,Good
+12,Craftsman,Stone,Basement,Fair
+264,Craftsman,Brick,Wood,Newly Renovated
+419,Victorian,Stone,Basement,Under Construction
+526,Craftsman,Wood,Brick,Under Construction
+316,Colonial,Stucco,Wood,Under Construction
+260,Colonial,Stone,Wood,Under Construction
+626,Craftsman,Stucco,Concrete Slab,Good
+741,Cottage,Stone,Stone,Under Construction
+513,Ranch,Vinyl,Basement,Needs Work
+40,Mediterranean,Steel,Basement,Under Construction
+518,Colonial,Wood,Concrete Slab,Good
+788,Cottage,Brick,Basement,Needs Work
+875,Colonial,Vinyl,Wood,Very Good
+38,Ranch,Brick,Stone,Needs Work
+766,Colonial,Glass,Raft,Poor
+557,Victorian,Glass,Crawl Space,Poor
+333,Colonial,Steel,Pier and Beam,Excellent
+5,Mediterranean,Concrete,Raft,Under Construction
+68,Modern,Stucco,Brick,Under Construction
+946,Colonial,Concrete,Crawl Space,Under Construction
+226,Victorian,Concrete,Crawl Space,Very Good
+197,Cottage,Glass,Pier and Beam,Very Good
+148,Craftsman,Concrete,Brick,Fair
+124,Modern,Brick,Brick,Good
+843,Ranch,Stone,Concrete Slab,Very Good
+140,Craftsman,Vinyl,Pier and Beam,Very Good
+937,Colonial,Stone,Wood,Good
+183,Cottage,Vinyl,Raft,Needs Work
+523,Victorian,Brick,Basement,Very Good
+3,Mediterranean,Wood,Brick,Poor
+71,Mediterranean,Vinyl,Stone,Very Good
+151,Mediterranean,Glass,Brick,Good
+974,Colonial,Concrete,Raft,Newly Renovated
+768,Cottage,Brick,Pier and Beam,Very Good
+818,Victorian,Brick,Crawl Space,Needs Work
+323,Modern,Stucco,Concrete Slab,Fair
+146,Victorian,Stone,Concrete Slab,Excellent
+501,Craftsman,Vinyl,Crawl Space,Fair
+897,Cottage,Vinyl,Basement,Fair
+554,Colonial,Stucco,Brick,Needs Work
+630,Mediterranean,Steel,Basement,Very Good
+22,Modern,Stone,Raft,Needs Work
+303,Cottage,Glass,Concrete Slab,Very Good
+575,Ranch,Brick,Pier and Beam,Newly Renovated
+395,Modern,Stone,Brick,Good
+925,Ranch,Brick,Stone,Fair
+649,Cottage,Brick,Pier and Beam,Poor
+34,Ranch,Stucco,Brick,Under Construction
+565,Ranch,Vinyl,Basement,Excellent
+172,Ranch,Stone,Raft,Good
+426,Colonial,Steel,Crawl Space,Needs Work
+474,Mediterranean,Stone,Crawl Space,Very Good
+839,Cottage,Concrete,Brick,Poor
+515,Victorian,Stucco,Brick,Newly Renovated
+965,Ranch,Steel,Concrete Slab,Excellent
+896,Cottage,Steel,Wood,Fair
+652,Modern,Steel,Concrete Slab,Poor
+67,Colonial,Stone,Stone,Very Good
+313,Craftsman,Vinyl,Basement,Fair
+522,Modern,Concrete,Crawl Space,Good
+944,Mediterranean,Concrete,Brick,Needs Work
+645,Colonial,Stucco,Stone,Very Good
+772,Victorian,Vinyl,Raft,Newly Renovated
+485,Victorian,Brick,Stone,Needs Work
+856,Victorian,Vinyl,Brick,Poor
+149,Craftsman,Wood,Wood,Poor
+230,Craftsman,Stucco,Crawl Space,Very Good
+35,Contemporary,Stucco,Stone,Fair
+327,Ranch,Wood,Stone,Newly Renovated
+823,Mediterranean,Wood,Basement,Under Construction
+614,Modern,Concrete,Basement,Under Construction
+278,Contemporary,Glass,Crawl Space,Excellent
+805,Modern,Stucco,Stone,Excellent
+302,Cottage,Steel,Raft,Needs Work
+678,Craftsman,Wood,Raft,Poor
+213,Victorian,Brick,Brick,Excellent
+610,Colonial,Steel,Raft,Very Good
+566,Craftsman,Steel,Brick,Needs Work
+77,Modern,Vinyl,Raft,Poor
+754,Craftsman,Glass,Crawl Space,Good
+804,Mediterranean,Concrete,Pier and Beam,Under Construction
+79,Craftsman,Vinyl,Wood,Excellent
+24,Colonial,Brick,Stone,Poor
+387,Ranch,Stucco,Stone,Needs Work
+457,Victorian,Stucco,Raft,Very Good
+409,Contemporary,Stucco,Stone,Excellent
+620,Colonial,Glass,Raft,Very Good
+921,Mediterranean,Steel,Wood,Under Construction
+564,Mediterranean,Stucco,Brick,Under Construction
+135,Mediterranean,Glass,Brick,Excellent
+884,Cottage,Vinyl,Raft,Under Construction
+761,Mediterranean,Brick,Concrete Slab,Very Good
+425,Mediterranean,Steel,Stone,Poor
+410,Craftsman,Steel,Brick,Newly Renovated
+656,Ranch,Steel,Basement,Excellent
+831,Craftsman,Glass,Pier and Beam,Under Construction
+455,Cottage,Brick,Basement,Needs Work
+608,Victorian,Concrete,Basement,Excellent
+112,Victorian,Glass,Wood,Excellent
+20,Modern,Brick,Brick,Good
+493,Modern,Brick,Concrete Slab,Very Good
+365,Mediterranean,Wood,Concrete Slab,Newly Renovated
+1000,Modern,Steel,Basement,Under Construction
+418,Colonial,Glass,Concrete Slab,Very Good
+471,Colonial,Concrete,Raft,Fair
+114,Contemporary,Wood,Concrete Slab,Excellent
+199,Contemporary,Wood,Brick,Excellent
+99,Ranch,Wood,Raft,Poor
+196,Contemporary,Stucco,Basement,Very Good
+869,Victorian,Vinyl,Wood,Excellent
+461,Craftsman,Stone,Crawl Space,Newly Renovated
+376,Cottage,Stucco,Raft,Newly Renovated
+696,Victorian,Stucco,Pier and Beam,Good
+800,Modern,Brick,Pier and Beam,Newly Renovated
+207,Mediterranean,Brick,Wood,Good
+108,Colonial,Glass,Stone,Poor
+530,Ranch,Stucco,Pier and Beam,Good
+934,Ranch,Brick,Raft,Needs Work
+58,Mediterranean,Vinyl,Pier and Beam,Good
+403,Craftsman,Wood,Stone,Newly Renovated
+235,Mediterranean,Glass,Crawl Space,Poor
+201,Cottage,Concrete,Concrete Slab,Needs Work
+968,Cottage,Concrete,Basement,Under Construction
+617,Cottage,Brick,Raft,Very Good
+551,Cottage,Brick,Raft,Needs Work
+90,Modern,Steel,Stone,Newly Renovated
+712,Craftsman,Glass,Brick,Newly Renovated
+938,Colonial,Glass,Crawl Space,Poor
+412,Modern,Brick,Stone,Excellent
+569,Colonial,Stone,Brick,Fair
+651,Cottage,Steel,Stone,Excellent
+929,Colonial,Concrete,Crawl Space,Poor
+300,Contemporary,Stucco,Stone,Excellent
+81,Craftsman,Stone,Crawl Space,Fair
+277,Modern,Steel,Brick,Very Good
+643,Craftsman,Stone,Stone,Excellent
+972,Victorian,Stucco,Crawl Space,Excellent
+970,Ranch,Wood,Brick,Poor
+624,Ranch,Wood,Wood,Excellent
+606,Contemporary,Brick,Brick,Fair
+723,Cottage,Stone,Basement,Newly Renovated
+732,Mediterranean,Brick,Crawl Space,Excellent
+757,Craftsman,Steel,Raft,Poor
+720,Cottage,Stone,Wood,Poor
+803,Modern,Brick,Stone,Newly Renovated
+283,Contemporary,Stone,Brick,Excellent
+371,Craftsman,Glass,Brick,Poor
+706,Colonial,Steel,Stone,Very Good
+957,Cottage,Glass,Wood,Poor
+647,Mediterranean,Steel,Raft,Newly Renovated
+186,Cottage,Stucco,Wood,Excellent
+546,Cottage,Brick,Crawl Space,Very Good
+867,Craftsman,Stucco,Wood,Very Good
+561,Modern,Concrete,Crawl Space,Fair
+349,Mediterranean,Steel,Wood,Newly Renovated
+900,Contemporary,Concrete,Wood,Good
+374,Craftsman,Concrete,Pier and Beam,Needs Work
+661,Mediterranean,Concrete,Brick,Very Good
+240,Modern,Steel,Concrete Slab,Fair
+473,Contemporary,Wood,Raft,Excellent
+748,Mediterranean,Concrete,Stone,Good
+914,Cottage,Glass,Pier and Beam,Good
+553,Ranch,Wood,Wood,Needs Work
+449,Contemporary,Wood,Basement,Fair
+220,Modern,Brick,Crawl Space,Very Good
+377,Colonial,Wood,Raft,Very Good
+776,Contemporary,Stucco,Concrete Slab,Poor
+123,Modern,Steel,Stone,Under Construction
+23,Contemporary,Glass,Raft,Fair
+495,Colonial,Concrete,Wood,Excellent
+338,Contemporary,Concrete,Basement,Excellent
+659,Contemporary,Wood,Brick,Under Construction
+251,Contemporary,Brick,Crawl Space,Excellent
+195,Cottage,Wood,Pier and Beam,Good
+380,Craftsman,Concrete,Raft,Needs Work
+845,Craftsman,Brick,Wood,Poor
+115,Ranch,Vinyl,Brick,Good
+653,Mediterranean,Stone,Concrete Slab,Under Construction
+193,Cottage,Vinyl,Stone,Poor
+209,Colonial,Brick,Wood,Newly Renovated
+971,Victorian,Vinyl,Stone,Poor
+830,Victorian,Glass,Raft,Very Good
+458,Craftsman,Vinyl,Concrete Slab,Newly Renovated
+138,Mediterranean,Steel,Stone,Very Good
+627,Modern,Wood,Wood,Good
+533,Modern,Stone,Concrete Slab,Good
+4,Craftsman,Vinyl,Wood,Needs Work
+221,Victorian,Concrete,Raft,Very Good
+636,Craftsman,Steel,Pier and Beam,Needs Work
+781,Modern,Glass,Crawl Space,Very Good
+860,Cottage,Stucco,Brick,Excellent
+579,Mediterranean,Brick,Pier and Beam,Excellent
+853,Contemporary,Wood,Crawl Space,Under Construction
+759,Mediterranean,Wood,Wood,Newly Renovated
+36,Cottage,Stone,Basement,Very Good
+920,Ranch,Concrete,Pier and Beam,Poor
+969,Contemporary,Wood,Concrete Slab,Needs Work
+167,Ranch,Glass,Crawl Space,Newly Renovated
+880,Modern,Brick,Crawl Space,Newly Renovated
+261,Craftsman,Concrete,Pier and Beam,Good
+815,Contemporary,Wood,Stone,Very Good
+793,Cottage,Wood,Crawl Space,Poor
+669,Mediterranean,Glass,Raft,Poor
+30,Mediterranean,Stone,Concrete Slab,Good
+398,Craftsman,Glass,Stone,Poor
+797,Ranch,Stone,Basement,Good
+208,Modern,Glass,Stone,Very Good
+342,Cottage,Stone,Pier and Beam,Poor
+857,Cottage,Brick,Brick,Fair
+699,Victorian,Concrete,Wood,Good
+931,Ranch,Glass,Raft,Fair
+165,Craftsman,Glass,Wood,Poor
+156,Victorian,Brick,Wood,Poor
+453,Craftsman,Stone,Concrete Slab,Good
+373,Cottage,Vinyl,Pier and Beam,Under Construction
+262,Colonial,Steel,Wood,Fair
+504,Colonial,Brick,Brick,Needs Work
+136,Colonial,Wood,Brick,Poor
+568,Contemporary,Glass,Crawl Space,Fair
+479,Colonial,Vinyl,Crawl Space,Fair
+279,Ranch,Brick,Pier and Beam,Under Construction
+541,Mediterranean,Vinyl,Stone,Poor
+37,Ranch,Concrete,Stone,Newly Renovated
+432,Victorian,Stone,Wood,Needs Work
+190,Modern,Stucco,Pier and Beam,Under Construction
+954,Ranch,Wood,Crawl Space,Needs Work
+317,Victorian,Brick,Wood,Excellent
+648,Mediterranean,Steel,Stone,Fair
+698,Cottage,Vinyl,Brick,Good
+53,Craftsman,Wood,Brick,Very Good
+311,Ranch,Brick,Stone,Good
+909,Contemporary,Stucco,Pier and Beam,Excellent
+27,Craftsman,Brick,Basement,Newly Renovated
+379,Craftsman,Glass,Raft,Very Good
+642,Victorian,Stone,Pier and Beam,Very Good
+700,Modern,Concrete,Brick,Very Good
+451,Modern,Stone,Pier and Beam,Fair
+337,Ranch,Stucco,Brick,Fair
+658,Ranch,Steel,Pier and Beam,Poor
+247,Modern,Steel,Stone,Needs Work
+391,Ranch,Brick,Raft,Newly Renovated
+110,Cottage,Wood,Stone,Good
+613,Mediterranean,Vinyl,Wood,Excellent
+417,Craftsman,Stone,Pier and Beam,Good
+799,Contemporary,Concrete,Raft,Excellent
+416,Craftsman,Stucco,Brick,Needs Work
+141,Colonial,Stucco,Wood,Very Good
+721,Ranch,Glass,Brick,Excellent
+82,Craftsman,Stone,Wood,Excellent
+827,Modern,Glass,Crawl Space,Under Construction
+28,Modern,Stucco,Raft,Fair
+343,Mediterranean,Steel,Pier and Beam,Needs Work
+524,Victorian,Vinyl,Brick,Very Good
+441,Victorian,Concrete,Raft,Good
+491,Ranch,Stucco,Pier and Beam,Very Good
+166,Modern,Steel,Wood,Newly Renovated
+702,Victorian,Vinyl,Pier and Beam,Newly Renovated
+587,Modern,Wood,Wood,Under Construction
+510,Ranch,Vinyl,Wood,Excellent
+122,Cottage,Stucco,Brick,Newly Renovated
+747,Cottage,Stone,Raft,Very Good
+967,Contemporary,Glass,Wood,Poor
+121,Colonial,Vinyl,Brick,Good
+411,Victorian,Brick,Brick,Good
+737,Cottage,Brick,Concrete Slab,Very Good
+692,Contemporary,Wood,Raft,Newly Renovated
+215,Modern,Steel,Concrete Slab,Fair
+722,Modern,Stone,Crawl Space,Good
+783,Cottage,Vinyl,Wood,Very Good
+616,Craftsman,Glass,Concrete Slab,Excellent
+503,Modern,Stucco,Raft,Under Construction
+835,Modern,Vinyl,Wood,Excellent
+50,Craftsman,Concrete,Basement,Poor
+331,Craftsman,Glass,Raft,Very Good
+187,Contemporary,Concrete,Basement,Excellent
+509,Modern,Stone,Brick,Fair
+701,Craftsman,Brick,Wood,Newly Renovated
+832,Colonial,Brick,Brick,Poor
+537,Victorian,Glass,Wood,Newly Renovated
+517,Victorian,Stucco,Concrete Slab,Good
+681,Contemporary,Steel,Brick,Fair
+581,Victorian,Steel,Concrete Slab,Needs Work
+790,Ranch,Vinyl,Wood,Poor
+489,Ranch,Brick,Brick,Excellent
+520,Victorian,Vinyl,Brick,Very Good
+618,Craftsman,Steel,Stone,Needs Work
+56,Modern,Wood,Stone,Poor
+482,Modern,Steel,Raft,Excellent
+694,Modern,Steel,Pier and Beam,Good
+384,Mediterranean,Glass,Pier and Beam,Fair
+162,Victorian,Glass,Pier and Beam,Very Good
+252,Contemporary,Stucco,Pier and Beam,Excellent
+291,Victorian,Vinyl,Wood,Poor
+394,Modern,Vinyl,Brick,Very Good
+991,Craftsman,Stone,Brick,Fair
+913,Modern,Concrete,Raft,Good
+727,Colonial,Wood,Raft,Fair
+601,Cottage,Wood,Brick,Excellent
+529,Craftsman,Stucco,Raft,Good
+357,Colonial,Brick,Stone,Poor
+519,Ranch,Stone,Concrete Slab,Under Construction
+591,Cottage,Stucco,Basement,Good
+117,Contemporary,Stone,Brick,Newly Renovated
+924,Cottage,Concrete,Brick,Good
+216,Cottage,Brick,Concrete Slab,Newly Renovated
+625,Ranch,Steel,Crawl Space,Good
+836,Colonial,Wood,Pier and Beam,Poor
+103,Colonial,Steel,Basement,Excellent
+9,Ranch,Glass,Basement,Under Construction
+814,Victorian,Wood,Pier and Beam,Good
+607,Contemporary,Steel,Raft,Newly Renovated
+405,Craftsman,Wood,Wood,Newly Renovated
+154,Ranch,Stucco,Stone,Needs Work
+922,Cottage,Stone,Basement,Fair
+168,Contemporary,Wood,Concrete Slab,Excellent
+615,Mediterranean,Steel,Concrete Slab,Good
+446,Craftsman,Glass,Concrete Slab,Newly Renovated
+584,Modern,Brick,Concrete Slab,Excellent
+346,Modern,Brick,Wood,Fair
+382,Colonial,Glass,Pier and Beam,Under Construction
+399,Contemporary,Steel,Pier and Beam,Under Construction
+802,Ranch,Stucco,Basement,Excellent
+895,Ranch,Stucco,Raft,Fair
+758,Contemporary,Concrete,Stone,Fair
+113,Contemporary,Steel,Crawl Space,Poor
+132,Cottage,Stucco,Basement,Under Construction
+549,Cottage,Glass,Brick,Fair
+436,Victorian,Stone,Brick,Under Construction
+881,Mediterranean,Stone,Basement,Excellent
+459,Mediterranean,Brick,Brick,Very Good
+543,Mediterranean,Brick,Pier and Beam,Under Construction
+280,Modern,Vinyl,Crawl Space,Poor
+531,Modern,Brick,Raft,Under Construction
+460,Colonial,Stucco,Pier and Beam,Poor
+284,Ranch,Concrete,Stone,Good
+744,Cottage,Stone,Crawl Space,Newly Renovated
+602,Ranch,Steel,Brick,Under Construction
+70,Cottage,Steel,Concrete Slab,Very Good
+273,Ranch,Stone,Pier and Beam,Good
+434,Victorian,Steel,Stone,Good
+73,Contemporary,Concrete,Brick,Newly Renovated
+435,Modern,Brick,Concrete Slab,Very Good
+422,Colonial,Stucco,Wood,Fair
+862,Colonial,Wood,Pier and Beam,Good
+894,Contemporary,Stone,Crawl Space,Fair
+604,Colonial,Steel,Wood,Needs Work
+892,Mediterranean,Glass,Basement,Under Construction
+464,Modern,Glass,Brick,Fair
+246,Cottage,Glass,Crawl Space,Good
+47,Colonial,Wood,Crawl Space,Under Construction
+145,Ranch,Wood,Pier and Beam,Under Construction
+355,Colonial,Stucco,Concrete Slab,Fair
+775,Contemporary,Brick,Pier and Beam,Under Construction
+580,Mediterranean,Concrete,Pier and Beam,Good
+912,Ranch,Wood,Concrete Slab,Very Good
+910,Victorian,Brick,Raft,Under Construction
+825,Modern,Vinyl,Stone,Good
+369,Modern,Wood,Basement,Very Good
+992,Victorian,Brick,Crawl Space,Excellent
+29,Colonial,Stucco,Raft,Poor
+353,Craftsman,Steel,Pier and Beam,Needs Work
+865,Contemporary,Brick,Basement,Excellent
+14,Cottage,Wood,Raft,Poor
+401,Cottage,Concrete,Concrete Slab,Poor
+321,Craftsman,Brick,Crawl Space,Poor
+238,Colonial,Glass,Stone,Very Good
+670,Victorian,Glass,Wood,Needs Work
+241,Ranch,Concrete,Wood,Excellent
+254,Modern,Steel,Wood,Fair
+989,Colonial,Concrete,Crawl Space,Very Good
+807,Ranch,Steel,Crawl Space,Good
+851,Colonial,Glass,Brick,Newly Renovated
+521,Victorian,Glass,Stone,Good
+84,Victorian,Concrete,Stone,Good
+863,Contemporary,Stone,Stone,Needs Work
+951,Cottage,Vinyl,Basement,Good
+325,Craftsman,Stucco,Basement,Good
+752,Victorian,Concrete,Concrete Slab,Under Construction
+189,Craftsman,Wood,Concrete Slab,Excellent
+837,Ranch,Glass,Brick,Newly Renovated
+469,Ranch,Concrete,Basement,Under Construction
+222,Ranch,Brick,Wood,Newly Renovated
+763,Colonial,Brick,Crawl Space,Fair
+270,Victorian,Stucco,Stone,Poor
+430,Ranch,Stucco,Pier and Beam,Poor
+784,Victorian,Glass,Raft,Under Construction
+573,Modern,Steel,Raft,Newly Renovated
+16,Craftsman,Brick,Stone,Under Construction
+690,Cottage,Vinyl,Basement,Very Good
+544,Victorian,Vinyl,Stone,Under Construction
+570,Craftsman,Stone,Crawl Space,Fair
+948,Cottage,Concrete,Wood,Under Construction
+885,Colonial,Concrete,Raft,Good
+756,Craftsman,Steel,Stone,Poor
+351,Mediterranean,Stone,Crawl Space,Excellent
+560,Modern,Stucco,Crawl Space,Poor
+293,Colonial,Brick,Crawl Space,Excellent
+335,Contemporary,Steel,Wood,Very Good
+801,Mediterranean,Stucco,Concrete Slab,Excellent
+662,Craftsman,Concrete,Crawl Space,Newly Renovated
+903,Contemporary,Wood,Concrete Slab,Excellent
+686,Contemporary,Stone,Stone,Good
+511,Contemporary,Steel,Concrete Slab,Needs Work
+729,Contemporary,Concrete,Raft,Excellent
+883,Contemporary,Glass,Raft,Newly Renovated
+945,Contemporary,Stone,Wood,Fair
+184,Ranch,Stone,Crawl Space,Very Good
+378,Victorian,Brick,Pier and Beam,Excellent
+147,Victorian,Brick,Stone,Needs Work
+175,Colonial,Wood,Basement,Needs Work
+198,Craftsman,Wood,Brick,Needs Work
+26,Modern,Brick,Pier and Beam,Newly Renovated
+234,Cottage,Wood,Wood,Poor
+535,Victorian,Steel,Crawl Space,Under Construction
+562,Colonial,Brick,Brick,Fair
+348,Ranch,Glass,Pier and Beam,Fair
+685,Contemporary,Vinyl,Crawl Space,Fair
+11,Colonial,Stone,Brick,Good
+746,Colonial,Wood,Crawl Space,Very Good
+299,Victorian,Brick,Basement,Very Good
+829,Victorian,Brick,Raft,Excellent
+134,Mediterranean,Concrete,Basement,Under Construction
+328,Mediterranean,Steel,Crawl Space,Needs Work
+816,Cottage,Concrete,Crawl Space,Poor
+889,Colonial,Stone,Stone,Good
+298,Colonial,Concrete,Brick,Needs Work
+402,Victorian,Stucco,Stone,Excellent
+950,Craftsman,Concrete,Raft,Under Construction
+225,Colonial,Steel,Pier and Beam,Newly Renovated
+470,Contemporary,Stone,Crawl Space,Excellent
+465,Craftsman,Vinyl,Wood,Newly Renovated
+476,Colonial,Concrete,Brick,Needs Work
+452,Craftsman,Steel,Wood,Poor
+326,Craftsman,Stucco,Brick,Newly Renovated
+228,Craftsman,Vinyl,Wood,Newly Renovated
+367,Mediterranean,Wood,Pier and Beam,Under Construction
+205,Mediterranean,Concrete,Brick,Good
+427,Modern,Wood,Wood,Very Good
+358,Colonial,Brick,Wood,Poor
+899,Colonial,Glass,Pier and Beam,Newly Renovated
+623,Ranch,Concrete,Basement,Very Good
+997,Cottage,Glass,Stone,Under Construction
+437,Modern,Concrete,Raft,Newly Renovated
+848,Craftsman,Concrete,Concrete Slab,Excellent
+177,Mediterranean,Stone,Brick,Very Good
+789,Victorian,Concrete,Stone,Needs Work
+795,Contemporary,Wood,Pier and Beam,Poor
+372,Contemporary,Stone,Basement,Very Good
+915,Ranch,Stone,Concrete Slab,Fair
+576,Modern,Brick,Crawl Space,Excellent
+927,Colonial,Wood,Concrete Slab,Very Good
+673,Contemporary,Stucco,Crawl Space,Fair
+755,Colonial,Concrete,Stone,Under Construction
+433,Mediterranean,Steel,Raft,Poor
+806,Colonial,Glass,Stone,Needs Work
+888,Craftsman,Wood,Raft,Fair
+676,Victorian,Glass,Concrete Slab,Very Good
+693,Modern,Vinyl,Basement,Under Construction
+490,Colonial,Stone,Crawl Space,Very Good
+304,Victorian,Stone,Pier and Beam,Good
+545,Mediterranean,Stone,Wood,Excellent
+760,Craftsman,Brick,Brick,Good
+203,Craftsman,Stucco,Brick,Good
+498,Contemporary,Stone,Concrete Slab,Poor
+743,Mediterranean,Glass,Crawl Space,Fair
+188,Contemporary,Concrete,Stone,Under Construction
+657,Colonial,Wood,Brick,Excellent
+983,Ranch,Brick,Wood,Needs Work
+487,Craftsman,Glass,Concrete Slab,Very Good
+871,Contemporary,Brick,Raft,Fair
+654,Craftsman,Wood,Raft,Very Good
+770,Mediterranean,Concrete,Crawl Space,Good
+362,Modern,Concrete,Crawl Space,Needs Work
+539,Contemporary,Vinyl,Raft,Poor
+271,Cottage,Vinyl,Raft,Needs Work
+217,Modern,Vinyl,Brick,Excellent
+169,Mediterranean,Stone,Stone,Excellent
+778,Contemporary,Stucco,Basement,Needs Work
+176,Contemporary,Glass,Concrete Slab,Excellent
+939,Mediterranean,Vinyl,Raft,Needs Work
+792,Contemporary,Vinyl,Basement,Fair
+771,Mediterranean,Steel,Brick,Poor
+664,Contemporary,Wood,Brick,Poor
+200,Ranch,Vinyl,Stone,Fair
+841,Mediterranean,Wood,Pier and Beam,Poor
+484,Mediterranean,Wood,Stone,Excellent
+456,Victorian,Glass,Concrete Slab,Good
+940,Colonial,Steel,Basement,Good
+812,Ranch,Stucco,Raft,Poor
+389,Contemporary,Wood,Crawl Space,Very Good
+109,Mediterranean,Stone,Pier and Beam,Very Good
+41,Victorian,Glass,Raft,Newly Renovated
+319,Mediterranean,Steel,Basement,Under Construction
+407,Victorian,Steel,Stone,Newly Renovated
+619,Victorian,Vinyl,Basement,Fair
+18,Ranch,Glass,Concrete Slab,Under Construction
+703,Cottage,Glass,Pier and Beam,Very Good
+131,Contemporary,Steel,Concrete Slab,Newly Renovated
+159,Colonial,Wood,Crawl Space,Good
+243,Craftsman,Vinyl,Crawl Space,Under Construction
+536,Mediterranean,Vinyl,Brick,Excellent
+918,Colonial,Concrete,Wood,Fair
+62,Contemporary,Wood,Wood,Fair
+85,Colonial,Stucco,Brick,Under Construction
+665,Colonial,Glass,Crawl Space,Fair
+406,Colonial,Stucco,Wood,Newly Renovated
+725,Cottage,Concrete,Raft,Poor
+680,Craftsman,Vinyl,Concrete Slab,Fair
+421,Ranch,Stone,Wood,Fair
+297,Colonial,Stucco,Concrete Slab,Excellent
+567,Modern,Vinyl,Concrete Slab,Excellent
+550,Colonial,Stucco,Concrete Slab,Needs Work
+932,Mediterranean,Glass,Pier and Beam,Poor
+594,Modern,Brick,Wood,Needs Work
+322,Mediterranean,Concrete,Brick,Fair
+872,Cottage,Stone,Brick,Newly Renovated
+360,Cottage,Stone,Crawl Space,Poor
+558,Modern,Brick,Brick,Very Good
+956,Ranch,Brick,Concrete Slab,Needs Work
+728,Victorian,Glass,Basement,Excellent
+689,Mediterranean,Glass,Wood,Good
+370,Modern,Concrete,Wood,Good
+838,Contemporary,Stucco,Concrete Slab,Newly Renovated
+83,Cottage,Vinyl,Concrete Slab,Fair
+33,Ranch,Stucco,Basement,Very Good
+481,Mediterranean,Concrete,Raft,Newly Renovated
+942,Craftsman,Wood,Crawl Space,Poor
+736,Craftsman,Steel,Basement,Needs Work
+19,Modern,Glass,Basement,Newly Renovated
+160,Contemporary,Stone,Pier and Beam,Fair
+877,Colonial,Concrete,Concrete Slab,Fair
+102,Mediterranean,Stone,Pier and Beam,Newly Renovated
+908,Modern,Stucco,Brick,Poor
+133,Craftsman,Wood,Pier and Beam,Under Construction
+996,Victorian,Steel,Stone,Excellent
+396,Colonial,Wood,Wood,Good
+253,Mediterranean,Wood,Stone,Needs Work
+988,Modern,Wood,Raft,Excellent
+86,Colonial,Steel,Brick,Poor
+933,Ranch,Glass,Brick,Poor
+548,Colonial,Vinyl,Crawl Space,Under Construction
+87,Victorian,Stucco,Wood,Newly Renovated
+852,Ranch,Brick,Wood,Poor
+52,Modern,Brick,Stone,Excellent
+596,Cottage,Concrete,Stone,Fair
+687,Contemporary,Concrete,Stone,Poor
+586,Mediterranean,Steel,Raft,Under Construction
+879,Modern,Stone,Pier and Beam,Good
+943,Victorian,Concrete,Crawl Space,Excellent
+431,Colonial,Stucco,Stone,Excellent
+609,Mediterranean,Concrete,Stone,Needs Work
+532,Cottage,Stone,Wood,Poor
+105,Modern,Vinyl,Pier and Beam,Excellent
+780,Craftsman,Concrete,Concrete Slab,Good
+78,Victorian,Glass,Pier and Beam,Poor
+356,Cottage,Stone,Brick,Needs Work
+267,Modern,Glass,Crawl Space,Poor
+936,Ranch,Wood,Basement,Under Construction
+635,Ranch,Steel,Wood,Under Construction
+192,Victorian,Glass,Wood,Needs Work
+707,Contemporary,Concrete,Concrete Slab,Under Construction
+582,Victorian,Brick,Crawl Space,Under Construction
+612,Craftsman,Steel,Basement,Under Construction
+777,Victorian,Steel,Concrete Slab,Fair
+59,Colonial,Steel,Wood,Very Good
+842,Ranch,Brick,Basement,Good
+994,Modern,Brick,Crawl Space,Under Construction
+170,Cottage,Vinyl,Concrete Slab,Very Good
+244,Colonial,Wood,Pier and Beam,Needs Work
+834,Contemporary,Stone,Pier and Beam,Under Construction
+475,Ranch,Vinyl,Basement,Newly Renovated
+7,Modern,Stone,Concrete Slab,Poor
+750,Colonial,Concrete,Concrete Slab,Fair
+334,Colonial,Stucco,Concrete Slab,Poor
+675,Victorian,Steel,Pier and Beam,Fair
+308,Cottage,Vinyl,Crawl Space,Very Good
+329,Craftsman,Wood,Brick,Poor
+644,Contemporary,Stucco,Pier and Beam,Fair
+928,Ranch,Steel,Concrete Slab,Under Construction
+206,Ranch,Stone,Brick,Under Construction
+826,Contemporary,Concrete,Crawl Space,Very Good
+947,Modern,Brick,Wood,Needs Work
+527,Craftsman,Glass,Basement,Fair
+735,Colonial,Brick,Brick,Very Good
+182,Cottage,Vinyl,Basement,Newly Renovated
+347,Colonial,Brick,Basement,Good
+467,Modern,Concrete,Pier and Beam,Fair
+1,Mediterranean,Brick,Crawl Space,Very Good
+650,Cottage,Glass,Crawl Space,Excellent
+963,Ranch,Stucco,Crawl Space,Newly Renovated
+966,Colonial,Stucco,Brick,Very Good
+388,Modern,Steel,Stone,Good
+292,Craftsman,Stucco,Stone,Newly Renovated
+100,Mediterranean,Vinyl,Wood,Good
+782,Craftsman,Vinyl,Stone,Newly Renovated
+779,Colonial,Stucco,Raft,Good
+716,Colonial,Brick,Raft,Newly Renovated
+359,Victorian,Glass,Pier and Beam,Needs Work
+202,Modern,Steel,Brick,Good
+150,Mediterranean,Stone,Pier and Beam,Excellent
+668,Ranch,Concrete,Concrete Slab,Fair
+21,Victorian,Stucco,Raft,Fair
+846,Craftsman,Stone,Wood,Excellent
+306,Ranch,Concrete,Pier and Beam,Poor
+130,Victorian,Glass,Wood,Needs Work
+887,Cottage,Concrete,Crawl Space,Excellent
+125,Cottage,Brick,Brick,Newly Renovated
+415,Craftsman,Brick,Crawl Space,Good
+127,Victorian,Stucco,Raft,Good
+611,Contemporary,Stucco,Wood,Fair
+774,Craftsman,Wood,Brick,Good
+61,Colonial,Concrete,Basement,Good
+986,Mediterranean,Brick,Brick,Very Good
+309,Craftsman,Glass,Stone,Fair
+713,Colonial,Concrete,Brick,Needs Work
+496,Craftsman,Brick,Concrete Slab,Poor
+949,Craftsman,Glass,Crawl Space,Poor
+622,Cottage,Stucco,Pier and Beam,Excellent
+726,Victorian,Vinyl,Concrete Slab,Excellent
+904,Contemporary,Brick,Stone,Poor
+864,Mediterranean,Vinyl,Stone,Needs Work
+987,Cottage,Concrete,Concrete Slab,Under Construction
+158,Colonial,Stucco,Brick,Under Construction
+48,Craftsman,Brick,Concrete Slab,Excellent
+740,Ranch,Glass,Wood,Needs Work
+978,Modern,Vinyl,Basement,Under Construction
+488,Colonial,Stone,Crawl Space,Very Good
+295,Colonial,Steel,Brick,Good
+420,Craftsman,Stone,Stone,Poor
+266,Ranch,Wood,Basement,Needs Work
+8,Contemporary,Steel,Pier and Beam,Needs Work
+289,Craftsman,Steel,Brick,Good
+711,Craftsman,Stucco,Raft,Under Construction
+634,Contemporary,Stucco,Crawl Space,Poor
+46,Victorian,Steel,Wood,Poor
+917,Mediterranean,Wood,Wood,Newly Renovated
+96,Colonial,Brick,Crawl Space,Needs Work
+840,Contemporary,Brick,Stone,Needs Work
+218,Contemporary,Wood,Pier and Beam,Newly Renovated
+413,Craftsman,Glass,Brick,Excellent
+734,Colonial,Stucco,Concrete Slab,Newly Renovated
+258,Cottage,Glass,Brick,Fair
+330,Victorian,Stone,Crawl Space,Excellent
+982,Colonial,Concrete,Raft,Good
+180,Victorian,Vinyl,Basement,Good
+364,Ranch,Stone,Basement,Poor
+633,Modern,Brick,Raft,Excellent
+919,Modern,Stucco,Crawl Space,Under Construction
+753,Contemporary,Brick,Raft,Excellent
+585,Colonial,Glass,Concrete Slab,Very Good
+810,Craftsman,Steel,Concrete Slab,Newly Renovated
+10,Craftsman,Brick,Wood,Very Good
+257,Colonial,Vinyl,Crawl Space,Poor
+320,Craftsman,Concrete,Pier and Beam,Good
+868,Colonial,Glass,Brick,Poor
+386,Mediterranean,Stone,Pier and Beam,Fair
+17,Contemporary,Stucco,Wood,Newly Renovated
+116,Modern,Stucco,Stone,Newly Renovated
+502,Colonial,Glass,Raft,Under Construction
+886,Ranch,Stone,Concrete Slab,Poor
+392,Mediterranean,Stucco,Stone,Newly Renovated
+762,Colonial,Wood,Pier and Beam,Under Construction
+424,Colonial,Stone,Pier and Beam,Excellent
+92,Colonial,Stucco,Pier and Beam,Excellent
+590,Colonial,Concrete,Concrete Slab,Very Good
+301,Cottage,Stucco,Brick,Fair
+93,Mediterranean,Brick,Brick,Fair
+477,Cottage,Stone,Crawl Space,Newly Renovated
+976,Modern,Stucco,Concrete Slab,Very Good
+773,Ranch,Vinyl,Wood,Under Construction
+674,Ranch,Steel,Raft,Very Good
+738,Victorian,Steel,Brick,Excellent
+990,Craftsman,Steel,Raft,Good
+98,Colonial,Steel,Stone,Fair
+354,Modern,Concrete,Wood,Poor
+730,Victorian,Stucco,Raft,Poor
+958,Craftsman,Glass,Pier and Beam,Newly Renovated
+440,Colonial,Brick,Raft,Good
+315,Craftsman,Concrete,Raft,Under Construction
+993,Modern,Brick,Stone,Fair
+429,Mediterranean,Vinyl,Wood,Fair
+975,Craftsman,Glass,Concrete Slab,Fair
+808,Contemporary,Brick,Raft,Needs Work
+242,Contemporary,Stucco,Concrete Slab,Fair
+964,Colonial,Stucco,Stone,Excellent
+448,Colonial,Steel,Raft,Good
+497,Cottage,Stucco,Wood,Needs Work
+472,Contemporary,Stucco,Stone,Very Good
+181,Modern,Brick,Wood,Very Good
+171,Mediterranean,Stucco,Pier and Beam,Good
+941,Cottage,Brick,Basement,Poor
+366,Craftsman,Wood,Raft,Very Good
+324,Colonial,Brick,Wood,Very Good
+55,Mediterranean,Vinyl,Basement,Under Construction
+508,Craftsman,Concrete,Stone,Needs Work
+57,Contemporary,Steel,Brick,Fair
+274,Ranch,Wood,Crawl Space,Under Construction
+89,Victorian,Wood,Raft,Newly Renovated

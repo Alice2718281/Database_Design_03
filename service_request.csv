@@ -1,0 +1,301 @@
+request_id,property_id,request_date,issue_description,status,resolved_date
+1,859,12/30/2023,Wall cracks need to be filled and painted over.,FALSE,9/25/2023
+2,639,12/11/2023,Closet door off its hinges.,TRUE,
+3,207,9/18/2023,Leaky faucet in the kitchen needs to be replaced.,FALSE,1/1/2024
+4,931,11/3/2023,Crack in the ceiling of the master bedroom.,FALSE,7/19/2023
+5,767,4/12/2024,Bathroom light flickering - possible electrical issue.,TRUE,7/18/2023
+6,471,4/7/2024,Patio door not sliding smoothly.,FALSE,9/28/2023
+7,151,1/13/2024,Patio door not sliding smoothly.,TRUE,
+8,344,6/19/2023,Mailbox lock is broken.,FALSE,
+9,759,5/1/2024,Landscape lights are not turning on.,FALSE,
+10,21,2/14/2024,Toilet flush is not working properly.,FALSE,8/3/2023
+11,460,11/27/2023,Landscape lights are not turning on.,TRUE,3/21/2024
+12,759,3/18/2024,Living room blinds are stuck and won't open.,TRUE,3/3/2024
+13,212,10/1/2023,Shower head is clogged and has low water pressure.,FALSE,
+14,79,2/17/2024,Garbage disposal not working.,FALSE,
+15,853,11/18/2023,The oven is not heating up to the set temperature.,TRUE,
+16,4,3/20/2024,Minor leak under the sink in the guest bathroom.,TRUE,3/8/2024
+17,385,8/27/2023,The refrigerator is making loud noises.,FALSE,8/9/2023
+18,401,2/26/2024,Front door lock is jammed.,TRUE,
+19,184,10/2/2023,Window in the living room doesn't close completely.,FALSE,
+20,308,11/9/2023,The refrigerator is making loud noises.,TRUE,
+21,786,7/9/2023,Heater making strange noises when turned on.,FALSE,
+22,759,11/16/2023,Tiles coming loose in the shower area.,TRUE,6/10/2023
+23,696,7/19/2023,Toilet flush is not working properly.,FALSE,
+24,306,8/8/2023,Smoke detector beeps intermittently.,FALSE,
+25,976,3/7/2024,Bedroom carpet is stained and needs cleaning.,TRUE,8/3/2023
+26,310,12/8/2023,The refrigerator is making loud noises.,FALSE,4/29/2024
+27,456,2/15/2024,Tiles coming loose in the shower area.,FALSE,
+28,581,5/19/2024,Closet door off its hinges.,FALSE,
+29,424,12/8/2023,Smoke detector beeps intermittently.,FALSE,
+30,494,11/18/2023,Wall cracks need to be filled and painted over.,FALSE,
+31,946,5/24/2024,Electrical outlet in the dining room is not working.,TRUE,
+32,39,8/20/2023,The refrigerator is making loud noises.,FALSE,
+33,98,1/25/2024,Ceiling fan wobbles excessively when on.,FALSE,
+34,682,8/8/2023,Minor leak under the sink in the guest bathroom.,FALSE,10/15/2023
+35,734,3/27/2024,Electrical outlet in the dining room is not working.,TRUE,2/15/2024
+36,748,1/21/2024,Toilet flush is not working properly.,FALSE,3/21/2024
+37,642,7/31/2023,Front door lock is jammed.,FALSE,8/26/2023
+38,585,6/28/2023,Leaky faucet in the kitchen needs to be replaced.,FALSE,2/26/2024
+39,485,2/2/2024,The intercom system is malfunctioning.,FALSE,8/12/2023
+40,705,1/7/2024,Smoke detector beeps intermittently.,TRUE,7/5/2023
+41,928,9/1/2023,The intercom system is malfunctioning.,FALSE,
+42,878,1/10/2024,Ceiling fan wobbles excessively when on.,FALSE,
+43,721,2/9/2024,Garbage disposal not working.,TRUE,
+44,861,12/29/2023,Water pooling at the bottom of the dishwasher.,FALSE,2/1/2024
+45,453,3/28/2024,Bathroom light flickering - possible electrical issue.,TRUE,
+46,226,8/4/2023,Living room blinds are stuck and won't open.,TRUE,10/7/2023
+47,27,10/25/2023,Staircase railing is loose.,TRUE,
+48,329,12/20/2023,Minor leak under the sink in the guest bathroom.,TRUE,
+49,119,9/19/2023,The intercom system is malfunctioning.,FALSE,7/21/2023
+50,543,7/5/2023,Front door lock is jammed.,TRUE,
+51,283,5/12/2024,Closet door off its hinges.,TRUE,7/16/2023
+52,855,1/26/2024,Ceiling fan wobbles excessively when on.,FALSE,
+53,511,3/5/2024,Tiles coming loose in the shower area.,FALSE,
+54,786,2/17/2024,Garbage disposal not working.,FALSE,
+55,902,3/12/2024,Water pooling at the bottom of the dishwasher.,FALSE,
+56,154,8/17/2023,Mailbox lock is broken.,FALSE,
+57,363,8/20/2023,Garbage disposal not working.,TRUE,
+58,17,4/28/2024,Front door lock is jammed.,TRUE,
+59,777,2/11/2024,Heater making strange noises when turned on.,FALSE,
+60,57,7/19/2023,Shower head is clogged and has low water pressure.,TRUE,
+61,328,1/3/2024,Front door lock is jammed.,FALSE,3/8/2024
+62,636,6/26/2023,Balcony railing paint is peeling off.,FALSE,11/16/2023
+63,602,4/28/2024,Crack in the ceiling of the master bedroom.,TRUE,
+64,562,1/4/2024,The kitchen sink is draining very slowly.,FALSE,6/5/2023
+65,593,1/3/2024,Shower head is clogged and has low water pressure.,TRUE,
+66,752,8/11/2023,Front door lock is jammed.,FALSE,
+67,567,2/10/2024,Garbage disposal not working.,TRUE,
+68,778,4/2/2024,Bedroom carpet is stained and needs cleaning.,FALSE,
+69,975,9/7/2023,Bathroom light flickering - possible electrical issue.,FALSE,
+70,715,2/10/2024,Electrical outlet in the dining room is not working.,TRUE,11/1/2023
+71,797,8/3/2023,Heater making strange noises when turned on.,TRUE,
+72,765,2/2/2024,Bedroom carpet is stained and needs cleaning.,TRUE,
+73,136,3/19/2024,Ceiling fan wobbles excessively when on.,TRUE,
+74,181,10/12/2023,Mailbox lock is broken.,FALSE,8/6/2023
+75,340,5/16/2024,Gym equipment in the common area is broken.,FALSE,
+76,828,1/25/2024,Window in the living room doesn't close completely.,FALSE,
+77,540,1/17/2024,Ceiling fan wobbles excessively when on.,FALSE,
+78,358,4/2/2024,Window in the living room doesn't close completely.,FALSE,
+79,330,12/6/2023,The oven is not heating up to the set temperature.,FALSE,7/6/2023
+80,120,3/30/2024,Balcony railing paint is peeling off.,TRUE,9/21/2023
+81,233,6/25/2023,Air conditioning unit not cooling properly.,FALSE,
+82,480,5/11/2024,Gym equipment in the common area is broken.,FALSE,
+83,608,4/24/2024,The refrigerator is making loud noises.,TRUE,8/4/2023
+84,407,4/21/2024,Gym equipment in the common area is broken.,FALSE,2/17/2024
+85,512,9/11/2023,The kitchen sink is draining very slowly.,TRUE,3/22/2024
+86,456,6/21/2023,Air conditioning unit not cooling properly.,FALSE,9/21/2023
+87,107,12/26/2023,Ceiling fan wobbles excessively when on.,TRUE,10/28/2023
+88,743,3/6/2024,Front door lock is jammed.,FALSE,9/15/2023
+89,386,1/16/2024,Garbage disposal not working.,TRUE,
+90,715,6/22/2023,Electrical outlet in the dining room is not working.,FALSE,5/12/2024
+91,325,4/10/2024,Garbage disposal not working.,TRUE,
+92,907,1/19/2024,The refrigerator is making loud noises.,FALSE,
+93,56,12/25/2023,Wall cracks need to be filled and painted over.,TRUE,3/10/2024
+94,540,11/17/2023,Minor leak under the sink in the guest bathroom.,TRUE,3/29/2024
+95,924,4/26/2024,Air conditioning unit not cooling properly.,FALSE,
+96,440,8/5/2023,Heater making strange noises when turned on.,FALSE,5/25/2024
+97,141,5/3/2024,Air conditioning unit not cooling properly.,TRUE,6/11/2023
+98,193,1/31/2024,Crack in the ceiling of the master bedroom.,FALSE,1/19/2024
+99,958,4/23/2024,Smoke detector beeps intermittently.,TRUE,
+100,399,11/16/2023,Staircase railing is loose.,TRUE,
+101,492,6/18/2023,Electrical outlet in the dining room is not working.,TRUE,
+102,857,3/11/2024,Minor leak under the sink in the guest bathroom.,TRUE,
+103,764,7/29/2023,Water pooling at the bottom of the dishwasher.,FALSE,
+104,656,12/9/2023,Ceiling fan wobbles excessively when on.,FALSE,4/23/2024
+105,942,5/2/2024,The kitchen sink is draining very slowly.,TRUE,
+106,608,2/1/2024,Crack in the ceiling of the master bedroom.,FALSE,11/10/2023
+107,753,10/6/2023,Ceiling fan wobbles excessively when on.,FALSE,
+108,843,2/11/2024,Tiles coming loose in the shower area.,FALSE,
+109,883,9/27/2023,Electrical outlet in the dining room is not working.,TRUE,8/16/2023
+110,531,6/24/2023,Bathroom light flickering - possible electrical issue.,FALSE,
+111,568,11/11/2023,Water pooling at the bottom of the dishwasher.,FALSE,9/21/2023
+112,616,5/24/2024,Garbage disposal not working.,TRUE,8/5/2023
+113,516,3/6/2024,Toilet flush is not working properly.,TRUE,
+114,395,2/25/2024,Bedroom carpet is stained and needs cleaning.,FALSE,1/9/2024
+115,788,11/5/2023,Shower head is clogged and has low water pressure.,TRUE,3/10/2024
+116,226,9/30/2023,The oven is not heating up to the set temperature.,FALSE,5/1/2024
+117,366,9/27/2023,Staircase railing is loose.,FALSE,1/24/2024
+118,63,12/29/2023,Leaky faucet in the kitchen needs to be replaced.,TRUE,11/12/2023
+119,784,7/9/2023,Bedroom carpet is stained and needs cleaning.,FALSE,
+120,594,7/19/2023,Garbage disposal not working.,FALSE,10/8/2023
+121,811,6/3/2023,Living room blinds are stuck and won't open.,FALSE,12/4/2023
+122,246,8/18/2023,Patio door not sliding smoothly.,TRUE,
+123,824,5/15/2024,Smoke detector beeps intermittently.,TRUE,
+124,780,2/5/2024,The intercom system is malfunctioning.,FALSE,
+125,648,11/28/2023,Landscape lights are not turning on.,TRUE,2/9/2024
+126,768,8/16/2023,Landscape lights are not turning on.,TRUE,8/14/2023
+127,247,3/4/2024,The refrigerator is making loud noises.,FALSE,
+128,177,11/23/2023,Closet door off its hinges.,TRUE,2/10/2024
+129,514,4/9/2024,Bedroom carpet is stained and needs cleaning.,TRUE,
+130,485,8/11/2023,Water pooling at the bottom of the dishwasher.,TRUE,5/4/2024
+131,884,8/8/2023,Front door lock is jammed.,TRUE,
+132,552,10/30/2023,Air conditioning unit not cooling properly.,TRUE,2/2/2024
+133,848,11/15/2023,Bedroom carpet is stained and needs cleaning.,TRUE,
+134,729,6/1/2023,Mailbox lock is broken.,FALSE,
+135,96,9/17/2023,Balcony railing paint is peeling off.,TRUE,1/13/2024
+136,843,8/11/2023,Crack in the ceiling of the master bedroom.,TRUE,6/28/2023
+137,778,2/4/2024,Landscape lights are not turning on.,TRUE,
+138,891,7/5/2023,Staircase railing is loose.,TRUE,6/1/2023
+139,117,4/29/2024,Heater making strange noises when turned on.,FALSE,3/22/2024
+140,484,2/29/2024,Landscape lights are not turning on.,TRUE,8/11/2023
+141,424,9/8/2023,Window in the living room doesn't close completely.,FALSE,
+142,915,1/4/2024,Landscape lights are not turning on.,FALSE,7/11/2023
+143,985,9/24/2023,Ceiling fan wobbles excessively when on.,FALSE,
+144,336,9/8/2023,Patio door not sliding smoothly.,FALSE,
+145,514,10/5/2023,Gym equipment in the common area is broken.,FALSE,
+146,895,11/10/2023,The oven is not heating up to the set temperature.,TRUE,8/17/2023
+147,651,6/12/2023,Water pooling at the bottom of the dishwasher.,FALSE,3/31/2024
+148,437,5/3/2024,Living room blinds are stuck and won't open.,FALSE,
+149,350,2/28/2024,Electrical outlet in the dining room is not working.,FALSE,
+150,705,12/4/2023,Balcony railing paint is peeling off.,FALSE,11/1/2023
+151,90,5/15/2024,Smoke detector beeps intermittently.,FALSE,
+152,1000,1/26/2024,Staircase railing is loose.,TRUE,8/4/2023
+153,290,3/20/2024,Electrical outlet in the dining room is not working.,FALSE,7/21/2023
+154,127,8/11/2023,Mailbox lock is broken.,TRUE,
+155,698,6/7/2023,Closet door off its hinges.,TRUE,3/12/2024
+156,464,7/27/2023,Closet door off its hinges.,FALSE,
+157,709,10/18/2023,The kitchen sink is draining very slowly.,TRUE,11/20/2023
+158,72,8/6/2023,Staircase railing is loose.,TRUE,
+159,198,1/17/2024,Window in the living room doesn't close completely.,TRUE,
+160,594,9/24/2023,Crack in the ceiling of the master bedroom.,TRUE,
+161,610,5/14/2024,Electrical outlet in the dining room is not working.,TRUE,11/13/2023
+162,457,12/25/2023,Tiles coming loose in the shower area.,TRUE,
+163,598,5/23/2024,Patio door not sliding smoothly.,TRUE,2/25/2024
+164,999,4/25/2024,Tiles coming loose in the shower area.,FALSE,
+165,148,8/31/2023,Garbage disposal not working.,FALSE,
+166,939,5/27/2024,Landscape lights are not turning on.,FALSE,
+167,526,9/16/2023,The refrigerator is making loud noises.,FALSE,2/22/2024
+168,762,3/2/2024,Bathroom light flickering - possible electrical issue.,TRUE,3/15/2024
+169,508,6/27/2023,Shower head is clogged and has low water pressure.,TRUE,
+170,961,4/22/2024,Heater making strange noises when turned on.,FALSE,9/27/2023
+171,22,11/21/2023,Front door lock is jammed.,FALSE,
+172,47,7/16/2023,Balcony railing paint is peeling off.,TRUE,
+173,357,5/5/2024,Tiles coming loose in the shower area.,TRUE,3/18/2024
+174,217,3/1/2024,The intercom system is malfunctioning.,FALSE,
+175,423,11/2/2023,The refrigerator is making loud noises.,FALSE,4/20/2024
+176,627,1/27/2024,Window in the living room doesn't close completely.,FALSE,4/13/2024
+177,436,11/9/2023,The oven is not heating up to the set temperature.,TRUE,8/31/2023
+178,969,12/6/2023,Toilet flush is not working properly.,TRUE,
+179,749,1/4/2024,Bathroom light flickering - possible electrical issue.,TRUE,3/25/2024
+180,232,5/18/2024,Crack in the ceiling of the master bedroom.,FALSE,11/21/2023
+181,396,12/3/2023,Shower head is clogged and has low water pressure.,TRUE,6/13/2023
+182,629,11/14/2023,Tiles coming loose in the shower area.,TRUE,6/28/2023
+183,949,2/19/2024,The refrigerator is making loud noises.,FALSE,
+184,501,9/7/2023,Leaky faucet in the kitchen needs to be replaced.,FALSE,1/21/2024
+185,513,10/23/2023,Front door lock is jammed.,FALSE,
+186,944,7/8/2023,Closet door off its hinges.,FALSE,
+187,787,4/19/2024,Staircase railing is loose.,TRUE,5/27/2024
+188,687,12/11/2023,The refrigerator is making loud noises.,FALSE,
+189,997,5/11/2024,Minor leak under the sink in the guest bathroom.,FALSE,
+190,163,10/23/2023,Water pooling at the bottom of the dishwasher.,TRUE,
+191,473,3/10/2024,Staircase railing is loose.,FALSE,9/25/2023
+192,312,1/25/2024,Toilet flush is not working properly.,TRUE,
+193,788,5/3/2024,Garbage disposal not working.,FALSE,6/30/2023
+194,689,4/26/2024,Minor leak under the sink in the guest bathroom.,TRUE,8/11/2023
+195,155,3/1/2024,Patio door not sliding smoothly.,TRUE,4/14/2024
+196,387,10/29/2023,Crack in the ceiling of the master bedroom.,TRUE,2/11/2024
+197,298,4/3/2024,The intercom system is malfunctioning.,FALSE,
+198,828,5/7/2024,Balcony railing paint is peeling off.,FALSE,
+199,102,6/8/2023,Garbage disposal not working.,TRUE,
+200,599,3/30/2024,Air conditioning unit not cooling properly.,FALSE,
+201,346,11/1/2023,The refrigerator is making loud noises.,TRUE,2/8/2024
+202,896,12/7/2023,Ceiling fan wobbles excessively when on.,FALSE,7/2/2023
+203,612,3/9/2024,Gym equipment in the common area is broken.,FALSE,
+204,271,11/28/2023,Gym equipment in the common area is broken.,TRUE,11/26/2023
+205,227,2/29/2024,Toilet flush is not working properly.,TRUE,6/24/2023
+206,935,10/19/2023,The oven is not heating up to the set temperature.,FALSE,12/10/2023
+207,707,10/21/2023,The intercom system is malfunctioning.,FALSE,10/8/2023
+208,199,7/24/2023,Window in the living room doesn't close completely.,FALSE,
+209,341,4/11/2024,Bathroom light flickering - possible electrical issue.,FALSE,6/7/2023
+210,276,7/21/2023,The intercom system is malfunctioning.,FALSE,
+211,682,12/9/2023,The refrigerator is making loud noises.,FALSE,
+212,903,10/26/2023,Gym equipment in the common area is broken.,TRUE,
+213,348,5/6/2024,Window in the living room doesn't close completely.,FALSE,11/28/2023
+214,171,4/6/2024,Ceiling fan wobbles excessively when on.,FALSE,10/1/2023
+215,997,5/2/2024,Toilet flush is not working properly.,FALSE,12/2/2023
+216,957,11/25/2023,Wall cracks need to be filled and painted over.,FALSE,6/12/2023
+217,157,1/3/2024,Bedroom carpet is stained and needs cleaning.,FALSE,3/1/2024
+218,472,12/26/2023,Wall cracks need to be filled and painted over.,FALSE,
+219,555,3/31/2024,Bedroom carpet is stained and needs cleaning.,FALSE,1/21/2024
+220,576,2/29/2024,Shower head is clogged and has low water pressure.,TRUE,
+221,890,8/26/2023,Bedroom carpet is stained and needs cleaning.,FALSE,
+222,172,10/17/2023,Water pooling at the bottom of the dishwasher.,TRUE,9/16/2023
+223,241,1/16/2024,Balcony railing paint is peeling off.,TRUE,
+224,715,7/19/2023,Toilet flush is not working properly.,TRUE,
+225,253,7/21/2023,Minor leak under the sink in the guest bathroom.,FALSE,2/7/2024
+226,121,5/27/2024,Air conditioning unit not cooling properly.,TRUE,
+227,721,11/6/2023,Heater making strange noises when turned on.,FALSE,
+228,733,2/6/2024,Toilet flush is not working properly.,FALSE,9/1/2023
+229,713,2/14/2024,Mailbox lock is broken.,FALSE,11/23/2023
+230,229,4/26/2024,Window in the living room doesn't close completely.,TRUE,8/4/2023
+231,340,8/12/2023,Bathroom light flickering - possible electrical issue.,TRUE,
+232,154,5/6/2024,Gym equipment in the common area is broken.,TRUE,
+233,504,4/10/2024,Tiles coming loose in the shower area.,FALSE,8/5/2023
+234,404,6/19/2023,Patio door not sliding smoothly.,FALSE,
+235,539,2/21/2024,Staircase railing is loose.,FALSE,
+236,54,1/23/2024,Living room blinds are stuck and won't open.,FALSE,9/11/2023
+237,499,7/4/2023,Balcony railing paint is peeling off.,FALSE,
+238,315,11/11/2023,Front door lock is jammed.,TRUE,12/30/2023
+239,588,12/29/2023,Garbage disposal not working.,TRUE,11/9/2023
+240,341,11/6/2023,Front door lock is jammed.,FALSE,2/24/2024
+241,730,5/30/2024,Garbage disposal not working.,TRUE,
+242,309,1/27/2024,Minor leak under the sink in the guest bathroom.,FALSE,
+243,636,2/1/2024,Heater making strange noises when turned on.,TRUE,
+244,256,3/22/2024,Water pooling at the bottom of the dishwasher.,FALSE,
+245,626,3/19/2024,Air conditioning unit not cooling properly.,TRUE,
+246,196,1/22/2024,Gym equipment in the common area is broken.,FALSE,
+247,75,3/9/2024,Electrical outlet in the dining room is not working.,FALSE,8/10/2023
+248,659,2/24/2024,Tiles coming loose in the shower area.,TRUE,
+249,854,8/8/2023,Landscape lights are not turning on.,TRUE,
+250,153,10/17/2023,Living room blinds are stuck and won't open.,TRUE,
+251,949,4/1/2024,Staircase railing is loose.,TRUE,4/26/2024
+252,602,9/17/2023,Mailbox lock is broken.,TRUE,2/27/2024
+253,908,3/23/2024,Bedroom carpet is stained and needs cleaning.,FALSE,
+254,678,10/23/2023,Bedroom carpet is stained and needs cleaning.,FALSE,
+255,705,8/4/2023,Air conditioning unit not cooling properly.,TRUE,
+256,131,7/13/2023,The intercom system is malfunctioning.,FALSE,7/16/2023
+257,997,11/21/2023,Garbage disposal not working.,TRUE,6/24/2023
+258,114,9/23/2023,Garbage disposal not working.,FALSE,2/16/2024
+259,551,6/10/2023,Front door lock is jammed.,FALSE,12/31/2023
+260,109,9/4/2023,Crack in the ceiling of the master bedroom.,TRUE,8/25/2023
+261,361,4/24/2024,Leaky faucet in the kitchen needs to be replaced.,FALSE,
+262,764,4/17/2024,Smoke detector beeps intermittently.,TRUE,
+263,621,10/26/2023,Front door lock is jammed.,TRUE,3/31/2024
+264,244,11/10/2023,Electrical outlet in the dining room is not working.,TRUE,
+265,533,2/19/2024,Balcony railing paint is peeling off.,FALSE,10/1/2023
+266,586,11/18/2023,Gym equipment in the common area is broken.,FALSE,12/18/2023
+267,293,2/9/2024,The kitchen sink is draining very slowly.,FALSE,
+268,96,2/14/2024,Smoke detector beeps intermittently.,TRUE,
+269,637,6/13/2023,Gym equipment in the common area is broken.,FALSE,3/25/2024
+270,87,6/13/2023,Front door lock is jammed.,TRUE,
+271,67,1/23/2024,Patio door not sliding smoothly.,FALSE,9/25/2023
+272,265,6/18/2023,Living room blinds are stuck and won't open.,TRUE,10/13/2023
+273,125,11/10/2023,Tiles coming loose in the shower area.,TRUE,
+274,806,9/8/2023,Patio door not sliding smoothly.,TRUE,
+275,598,4/21/2024,Leaky faucet in the kitchen needs to be replaced.,TRUE,
+276,157,11/4/2023,Bathroom light flickering - possible electrical issue.,FALSE,12/7/2023
+277,986,3/12/2024,Front door lock is jammed.,FALSE,7/3/2023
+278,689,12/7/2023,The oven is not heating up to the set temperature.,FALSE,
+279,741,3/13/2024,Crack in the ceiling of the master bedroom.,FALSE,3/5/2024
+280,871,4/22/2024,The kitchen sink is draining very slowly.,TRUE,
+281,280,5/1/2024,Shower head is clogged and has low water pressure.,TRUE,
+282,688,4/9/2024,Minor leak under the sink in the guest bathroom.,FALSE,6/5/2023
+283,759,8/29/2023,Bedroom carpet is stained and needs cleaning.,TRUE,9/2/2023
+284,994,10/11/2023,Closet door off its hinges.,FALSE,6/15/2023
+285,342,2/19/2024,The refrigerator is making loud noises.,FALSE,9/27/2023
+286,388,7/16/2023,Air conditioning unit not cooling properly.,TRUE,
+287,341,7/1/2023,The intercom system is malfunctioning.,TRUE,11/20/2023
+288,856,5/16/2024,Bathroom light flickering - possible electrical issue.,TRUE,
+289,371,9/25/2023,Bathroom light flickering - possible electrical issue.,FALSE,9/10/2023
+290,871,2/25/2024,Bedroom carpet is stained and needs cleaning.,FALSE,
+291,944,3/25/2024,Bathroom light flickering - possible electrical issue.,TRUE,3/3/2024
+292,725,8/7/2023,Air conditioning unit not cooling properly.,TRUE,5/21/2024
+293,690,1/17/2024,Toilet flush is not working properly.,FALSE,3/20/2024
+294,511,3/10/2024,Closet door off its hinges.,TRUE,1/5/2024
+295,714,5/28/2024,The kitchen sink is draining very slowly.,FALSE,1/14/2024
+296,594,9/12/2023,Toilet flush is not working properly.,TRUE,8/15/2023
+297,913,3/28/2024,The oven is not heating up to the set temperature.,FALSE,
+298,615,1/20/2024,Closet door off its hinges.,FALSE,4/4/2024
+299,764,7/2/2023,Front door lock is jammed.,FALSE,8/8/2023
+300,644,7/31/2023,The oven is not heating up to the set temperature.,FALSE,12/2/2023
